@@ -1,0 +1,1 @@
+{"Move1": {"Name": "Fire Spin", "Type": "Fire", "Freq": "Scene x2", "AC": "2", "DB": "4", "DType": "Special", "Range": "3, 1 Target", "Effects": "The target is put in a Vortex.", "Contest Type": "Beauty", "Contest Effect": "Safe Option"}}

@@ -1,0 +1,1 @@
+{"Move1": {"Fairy Moves": "", "Name": "Aromatic Mist", "Type": "Fairy", "Freq": "EOT", "AC": "None", "DType": "Status", "Range": "Burst 1", "Effects": "All allies in Aromatic Mist\u2019s area of effect have their Special Defense raised 1 Combat Stage.", "Contest Type": "Cute", "Contest Effect": "Get Ready"}}

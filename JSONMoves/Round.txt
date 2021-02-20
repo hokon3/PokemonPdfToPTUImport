@@ -1,0 +1,1 @@
+{"Move1": {"Name": "Round", "Type": "Normal", "Freq": "EOT", "AC": "2", "Damage Base X": "See Effect", "DType": "Special", "Range": "Burst 1, Sonic", "Effects": "Round\u2019s Damage Base is equal to 6, plus +2 more for each previous use of Round by any Trainer or Pok\u00e9mon this round, up to a maximum of DB12.", "Contest Type": "Tough", "Contest Effect": "Reliable"}}

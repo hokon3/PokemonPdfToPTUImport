@@ -1,0 +1,1 @@
+{"Move1": {"Name": "Fairy Wind", "Type": "Fairy", "Freq": "At-Will", "AC": "2", "DB": "4", "DType": "Special", "Range": "6, 1 Target", "Contest Type": "Cute", "Contest Effect": "Steady Performance"}}

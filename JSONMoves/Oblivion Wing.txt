@@ -1,0 +1,1 @@
+{"Move1": {"Name": "Oblivion Wing", "Type": "Flying", "Freq": "Daily", "AC": "2", "DB": "8", "DType": "Special", "Range": "Melee, 1 Target", "Effects": "The user gains Hit Points equal to Oblivion Wing\u2019s Damage Roll.", "Contest Type": "Cool", "Contest Effect": "Catching Up"}}

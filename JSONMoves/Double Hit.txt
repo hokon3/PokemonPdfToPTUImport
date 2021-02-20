@@ -1,0 +1,1 @@
+{"Move1": {"Name": "Double Hit", "Type": "Normal", "Freq": "EOT", "AC": "3", "DB": "4", "DType": "Physical", "Range": "Melee, 1 Target, Double Strike", "Contest Type": "Smart", "Contest Effect": "Reliable"}}

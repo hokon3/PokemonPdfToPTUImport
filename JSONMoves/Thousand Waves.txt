@@ -1,0 +1,1 @@
+{"Move1": {"Name": "Thousand Waves", "Type": "Ground", "Freq": "Scene", "AC": "2", "DB": "9", "DType": "Physical", "Range": "Burst 1, Groundsource", "Effects": "Legal Targets are Trapped for 2 rounds.", "Contest Type": "Tough", "Contest Effect": "Tease"}}

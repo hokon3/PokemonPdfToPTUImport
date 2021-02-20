@@ -1,0 +1,1 @@
+{"Move1": {"Name": "Waterfall", "Type": "Water", "Freq": "EOT", "AC": "2", "DB": "8", "DType": "Physical", "Range": "Melee, 1 Target", "Effects": "Waterfall Flinches the target on 17+.", "Contest Type": "Tough", "Contest Effect": "Steady Performance"}}

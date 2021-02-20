@@ -1,0 +1,1 @@
+{"Move1": {"Name": "Cotton Spore", "Type": "Grass", "Freq": "EOT", "AC": "2", "DType": "Status", "Range": "Burst 1, Powder", "Effects": "All Legal Targets have their Speed lowered 2 Combat Stages.", "Contest Type": "Beauty", "Contest Effect": "Saving Grace"}}

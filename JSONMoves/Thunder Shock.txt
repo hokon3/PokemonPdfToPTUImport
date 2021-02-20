@@ -1,0 +1,1 @@
+{"Move1": {"Name": "Thunder Shock", "Type": "Electric", "Freq": "At-Will", "AC": "2", "DB": "4", "DType": "Special", "Range": "4, 1 Target", "Effects": "Thunder Shock Paralyzes the target on 17+.", "Contest Type": "Cool", "Contest Effect": "Steady Performance"}}

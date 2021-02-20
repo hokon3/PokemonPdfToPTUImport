@@ -1,0 +1,1 @@
+{"Move1": {"Name": "Switcheroo", "Type": "Dark", "Freq": "At-Will", "AC": "2", "DType": "Status", "Range": "Melee, 1 Target", "Effects": "The user and the target exchange Held Items or Accessory Slot Items.", "Contest Type": "Cool", "Contest Effect": "Attention Grabber"}}

@@ -1,0 +1,1 @@
+{"Move1": {"Name": "Surf", "Type": "Water", "Freq": "EOT", "AC": "2", "DB": "9", "DType": "Special", "Range": "Line 6", "Effects": "As a Shift Action, the user may Move to any open square in Surf\u2019s area of effect without provoking any Attacks of Opportunity.", "Contest Type": "Beauty", "Contest Effect": "Exhausting Act"}}

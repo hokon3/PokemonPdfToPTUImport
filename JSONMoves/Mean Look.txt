@@ -1,0 +1,1 @@
+{"Move1": {"Name": "Mean Look", "Type": "Normal", "Freq": "Scene", "AC": "None", "DType": "Status", "Range": "6, 1 Target, Social", "Effects": "The user casts a foul spell on the target, causing it to become Trapped and Slowed for the remainder of the encounter.", "Contest Type": "Beauty", "Contest Effect": "Unsettling"}}

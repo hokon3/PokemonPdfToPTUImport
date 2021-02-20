@@ -1,0 +1,1 @@
+{"Move1": {"Name": "Work Up", "Type": "Normal", "Freq": "EOT", "AC": "None", "DType": "Status", "Range": "Self", "Effects": "Raise the user\u2019s Attack 1 Combat Stage and raise the user\u2019s Special Attack 1 Combat Stage.", "Contest Type": "Tough", "Contest Effect": "Get Ready"}}

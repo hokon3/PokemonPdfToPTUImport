@@ -1,0 +1,1 @@
+{"Move1": {"Name": "Spider Web", "Type": "Bug", "Freq": "Scene x2", "AC": "None", "DType": "Status", "Range": "5, 1 Target", "Effects": "Spider Web cannot miss. The target is Stuck and Trapped. If the user is freed of the Stuck condition, they are freed of Trapped as well.", "Contest Type": "Smart", "Contest Effect": "Sabotage"}}

@@ -1,0 +1,1 @@
+{"Move1": {"Name": "Hyperspace Fury", "Type": "Dark", "Freq": "Daily", "AC": "2", "DB": "10", "DType": "Physical", "Range": "Burst 2", "Effects": "Interrupts may not be triggered against Hyperspace Fury. The user\u2019s Defense is lowered by -1 Combat Stage.", "Contest Type": "Tough", "Contest Effect": "Double Time"}}

@@ -1,0 +1,1 @@
+{"Move1": {"Name": "Tickle", "Type": "Normal", "Freq": "EOT", "AC": "2", "DType": "Status", "Range": "Melee, 1 Target", "Effects": "Lower the target\u2019s Attack 1 Combat Stage and lower the target\u2019s Defense 1 Combat Stage.", "Contest Type": "Cute", "Contest Effect": "Excitement"}}

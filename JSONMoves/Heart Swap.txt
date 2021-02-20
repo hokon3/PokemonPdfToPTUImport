@@ -1,0 +1,1 @@
+{"Move1": {"Name": "Heart Swap", "Type": "Psychic", "Freq": "Daily", "AC": "None", "DType": "Status", "Range": "10, 2 Targets", "Effects": "The targets trade Combat Stage values for each Stat.", "Contest Type": "Cool", "Contest Effect": "Inversed Appeal"}}

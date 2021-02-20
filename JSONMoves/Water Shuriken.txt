@@ -1,0 +1,1 @@
+{"Move1": {"Name": "Water Shuriken", "Type": "Water", "Freq": "EOT", "AC": "2", "DB": "2", "DType": "Special", "Range": "6, 1 Target, Five Strike, Priority", "Contest Type": "Cool", "Contest Effect": "Reliable"}}

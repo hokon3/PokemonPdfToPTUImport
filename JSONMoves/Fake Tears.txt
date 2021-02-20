@@ -1,0 +1,1 @@
+{"Move1": {"Name": "Fake Tears", "Type": "Dark", "Freq": "EOT", "AC": "2", "DType": "Status", "Range": "8, 1 Target, Social", "Effects": "Lower the target\u2019s Special Defense 2 Combat Stages.", "Contest Type": "Smart", "Contest Effect": "Excitement"}}

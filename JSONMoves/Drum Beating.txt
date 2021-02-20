@@ -1,0 +1,1 @@
+{"Move1": {"Name": "Drum Beating", "Type": "Grass", "Freq": "EOT", "AC": "2", "DB": "8", "DType": "Physical", "Range": "4, 1 Target", "Effects": "The target\u2019s Speed is lowered by 1 CS.", "Contest Type": "Smart", "Contest Effect": "Big Show"}}

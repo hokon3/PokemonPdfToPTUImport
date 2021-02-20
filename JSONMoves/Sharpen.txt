@@ -1,0 +1,1 @@
+{"Move1": {"Name": "Sharpen", "Type": "Normal", "Freq": "At-Will", "AC": "None", "DType": "Status", "Range": "Self", "Effects": "Raise the user\u2019s Attack 1 Combat Stage.", "Contest Type": "Cute", "Contest Effect": "Get Ready"}}

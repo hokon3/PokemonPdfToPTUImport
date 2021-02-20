@@ -1,0 +1,1 @@
+{"Move1": {"Name": "Swords Dance", "Type": "Normal", "Freq": "EOT", "AC": "None", "DType": "Status", "Range": "Self, Dance", "Effects": "The user\u2019s Attack is raised 2 Combat Stages.", "Contest Type": "Beauty", "Contest Effect": "Get Ready"}}

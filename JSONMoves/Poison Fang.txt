@@ -1,0 +1,1 @@
+{"Move1": {"Name": "Poison Fang", "Type": "Poison", "Freq": "EOT", "AC": "2", "DB": "5", "DType": "Physical", "Range": "Melee, 1 Target", "Effects": "Poison Fang Badly Poisons the target on 17+.", "Contest Type": "Smart", "Contest Effect": "Incentives"}}

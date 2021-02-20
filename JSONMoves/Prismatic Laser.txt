@@ -1,0 +1,1 @@
+{"Move1": {"Name": "Prismatic Laser", "Type": "Psychic", "Freq": "Daily x2", "AC": "4", "DB": "16", "DType": "Special", "Range": "Line 8, Smite, Exhaust", "Contest Type": "Cool", "Contest Effect": "Exhausting Act"}}

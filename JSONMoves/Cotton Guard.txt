@@ -1,0 +1,1 @@
+{"Move1": {"Name": "Cotton Guard", "Type": "Grass", "Freq": "Scene", "AC": "None", "DType": "Status", "Range": "Self", "Effects": "Raise the user\u2019s Defense 3 Combat Stages.", "Contest Type": "Cute", "Contest Effect": "Get Ready"}}

@@ -1,0 +1,1 @@
+{"Move1": {"Grass Moves": "", "Name": "Absorb", "Type": "Grass", "Freq": "At-Will", "AC": "2", "DB": "2", "DType": "Special", "Range": "4, 1 Target", "Effects": "After the target takes damage, the user gains Hit Points equal to half of the damage they dealt to the target.", "Contest Type": "Smart", "Contest Effect": "Good Show"}}

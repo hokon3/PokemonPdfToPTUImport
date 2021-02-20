@@ -1,0 +1,1 @@
+{"Move1": {"Name": "Reversal", "Type": "Fighting", "Freq": "EOT", "AC": "2", "DB": "7", "DType": "Physical", "Range": "Melee, 1 Target", "Effects": "For each Injury the user has, Reversal\u2019s Damage Base is increased by +1.", "Contest Type": "Cool", "Contest Effect": "Double Time"}}

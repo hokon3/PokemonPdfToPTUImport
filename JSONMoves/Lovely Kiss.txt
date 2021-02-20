@@ -1,0 +1,1 @@
+{"Move1": {"Name": "Lovely Kiss", "Type": "Normal", "Freq": "Scene x2", "AC": "6", "DType": "Status", "Range": "6, 1 Target, Social", "Effects": "The target falls Asleep.", "Contest Type": "Beauty", "Contest Effect": "Excitement"}}

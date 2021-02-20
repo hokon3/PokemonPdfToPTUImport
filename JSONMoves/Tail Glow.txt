@@ -1,0 +1,1 @@
+{"Move1": {"Name": "Tail Glow", "Type": "Bug", "Freq": "Scene", "AC": "None", "DType": "Status", "Range": "Self", "Effects": "Raise the user\u2019s Special Attack 3 Combat Stages.", "Contest Type": "Beauty", "Contest Effect": "Get Ready"}}

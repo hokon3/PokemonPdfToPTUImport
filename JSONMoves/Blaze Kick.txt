@@ -1,0 +1,1 @@
+{"Move1": {"Name": "Blaze Kick", "Type": "Fire", "Freq": "EOT", "AC": "4", "DB": "9", "DType": "Physical", "Range": "Melee, 1 Target", "Effects": "Blaze Kick Burns the target on 19+ and is a Critical Hit on 18+.", "Contest Type": "Beauty", "Contest Effect": "Exhausting Act"}}

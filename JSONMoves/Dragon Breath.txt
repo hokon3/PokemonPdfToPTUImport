@@ -1,0 +1,1 @@
+{"Move1": {"Name": "Dragon Breath", "Type": "Dragon", "Freq": "EOT", "AC": "2", "DB": "6", "DType": "Special", "Range": "6, 1 Target", "Effects": "Dragon Breath Paralyzes the Target on 15+.", "Contest Type": "Cool", "Contest Effect": "Exhausting Act"}}

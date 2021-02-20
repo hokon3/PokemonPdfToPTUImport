@@ -1,0 +1,1 @@
+{"Move1": {"Name": "Grass Knot", "Type": "Grass", "Freq": "EOT", "AC": "2", "Damage Base": "See Effect", "DType": "Special", "Range": "5, 1 Target, Weight Class", "Effects": "Grass Knot\u2019s Damage Base is equal to twice the target\u2019s Weight Class.", "Contest Type": "Smart", "Contest Effect": "Incentives"}}

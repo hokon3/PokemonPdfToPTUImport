@@ -1,0 +1,1 @@
+{"Move1": {"Name": "Stomping Tantrum", "Type": "Ground", "Freq": "EOT", "AC": "2", "DB": "8", "DType": "Physical", "Range": "Melee, 1 Target", "Effects": "If the user\u2019s last attack failed or missed, Stomping Tantrum is DB 15 (4d10+10 / 45) instead.", "Contest Type": "Tough", "Contest Effect": "Unsettling"}}

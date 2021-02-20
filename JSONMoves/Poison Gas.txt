@@ -1,0 +1,1 @@
+{"Move1": {"Name": "Poison Gas", "Type": "Poison", "Freq": "Scene", "AC": "6", "DType": "Status", "Range": "Burst 1 or Cone 2", "Effects": "Poison Gas Poisons all Legal Targets.", "Contest Type": "Smart", "Contest Effect": "Steady Performance"}}

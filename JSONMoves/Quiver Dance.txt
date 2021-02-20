@@ -1,0 +1,1 @@
+{"Move1": {"Name": "Quiver Dance", "Type": "Bug", "Freq": "Scene x2", "AC": "None", "DType": "Status", "Range": "Self, Dance", "Effects": "Raise the user\u2019s Special Attack, Special Defense, and Speed by +1 Combat Stage each.", "Contest Type": "Cool", "Contest Effect": "Get Ready"}}

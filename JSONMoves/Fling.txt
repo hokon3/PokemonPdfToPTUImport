@@ -1,0 +1,1 @@
+{"Move1": {"Name": "Fling", "Type": "Dark", "Freq": "Scene x2", "AC": "2", "Damage Base X": "See Effect", "DType": "Physical", "Range": "6, 1 Target, Fling", "Effects": "The user throws a held item, determining the effect of Fling.", "Contest Type": "Tough", "Contest Effect": "Catching Up"}}

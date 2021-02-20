@@ -1,0 +1,1 @@
+{"Move1": {"Name": "Sunsteel Strike", "Type": "Steel", "Freq": "Scene x2", "AC": "2", "DB": "10", "DType": "Physical", "Range": "Close Blast 2", "Effects": "This Move ignores any Abilities that would cause it to fail or miss, such as Dodge or Wonder Guard; those Abilities cannot be activated in response to Sunsteel Strike.", "Contest Type": "Cool", "Contest Effect": "Big Show"}}

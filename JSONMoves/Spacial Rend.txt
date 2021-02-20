@@ -1,0 +1,1 @@
+{"Move1": {"Name": "Spacial Rend", "Type": "Dragon", "Freq": "Daily x2", "AC": "3", "DB": "10", "DType": "Special", "Range": "10, 1 Target", "Effects": "Spacial Rend is a Critical Hit on Even-Numbered Rolls.", "Contest Type": "Tough", "Contest Effect": "Incentives"}}

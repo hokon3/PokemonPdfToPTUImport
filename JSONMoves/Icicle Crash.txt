@@ -1,0 +1,1 @@
+{"Move1": {"Name": "Icicle Crash", "Type": "Ice", "Freq": "EOT", "AC": "4", "DB": "8", "DType": "Physical", "Range": "6, 1 Target", "Effects": "Icicle Crash Flinches the target on 15+", "Contest Type": "Tough", "Contest Effect": "Steady Performance"}}

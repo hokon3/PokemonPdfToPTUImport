@@ -1,0 +1,1 @@
+{"Move1": {"Name": "V-Create", "Type": "Fire", "Freq": "Daily", "AC": "5", "DB": "18", "DType": "Physical", "Range": "Melee, 1 Target, Smite, Reckless", "Effects": "Lower the user\u2019s Defense, Special Defense, and Speed by 1 CS each.", "Contest Type": "Beauty", "Contest Effect": "Seen Nothing Yet"}}

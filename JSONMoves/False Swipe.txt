@@ -1,0 +1,1 @@
+{"Move1": {"Name": "False Swipe", "Type": "Normal", "Freq": "At-Will", "AC": "2", "DB": "4", "DType": "Physical", "Range": "Melee, Pass", "Effects": "False Swipe\u2019s damage cannot bring a target lower than 1 Hit Point.", "Contest Type": "Cool", "Contest Effect": "Inversed Appeal"}}

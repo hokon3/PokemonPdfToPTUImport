@@ -1,0 +1,1 @@
+{"Move1": {"Name": "Octazooka", "Type": "Water", "Freq": "At-Will", "AC": "3", "DB": "7", "DType": "Special", "Range": "6, 1 Target", "Effects": "On an Even-Numbered Roll, the target\u2019s Accuracy is Lowered by 1.", "Contest Type": "Tough", "Contest Effect": "Incentives"}}

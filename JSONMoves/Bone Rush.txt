@@ -1,0 +1,1 @@
+{"Move1": {"Name": "Bone Rush", "Type": "Ground", "Freq": "EOT", "AC": "4", "DB": "3", "DType": "Physical", "Range": "Melee, 1 Target, Five Strike", "Contest Type": "Tough", "Contest Effect": "Reliable"}}

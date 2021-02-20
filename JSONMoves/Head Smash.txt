@@ -1,0 +1,1 @@
+{"Move1": {"Name": "Head Smash", "Type": "Rock", "Freq": "Scene", "AC": "5", "DB": "15", "DType": "Physical", "Range": "Melee, 1 Target, Dash, Push, Recoil 1/3", "Effects": "The target is pushed 2 meters.", "Contest Type": "Tough", "Contest Effect": "Seen Nothing Yet"}}

@@ -1,0 +1,1 @@
+{"Move1": {"Name": "Retaliate", "Type": "Normal", "Freq": "Scene x2", "AC": "2", "DB": "7", "DType": "Physical", "Range": "Melee, 1 Target", "Effects": "Retaliate\u2019s Damage Base is doubled to DB 14 (4d10+15 / 40) if an ally has been Fainted by a Damaging Move used by the Target in the last 2 rounds of Combat.", "Contest Type": "Cool", "Contest Effect": "Steady Performance"}}

@@ -1,0 +1,1 @@
+{"Move1": {"Name": "Body Slam", "Type": "Normal", "Freq": "Scene x2", "AC": "2", "DB": "9", "DType": "Physical", "Range": "Melee, 1 Target", "Effects": "Body Slam Paralyzes the target on 15+.", "Contest Type": "Tough", "Contest Effect": "Steady Performance"}}

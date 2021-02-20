@@ -1,0 +1,1 @@
+{"Move1": {"Name": "Dragon Tail", "Type": "Dragon", "Freq": "At-Will", "AC": "3", "DB": "6", "DType": "Physical", "Range": "Melee, 1 Target, Push", "Effects": "The target is Pushed 6 meters minus their Weight Class. On a roll of 15+, the target is also Tripped.", "Contest Type": "Smart", "Contest Effect": "Big Show"}}

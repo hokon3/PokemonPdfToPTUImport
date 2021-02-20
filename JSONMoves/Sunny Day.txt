@@ -1,0 +1,1 @@
+{"Move1": {"Name": "Sunny Day", "Type": "Fire", "Freq": "Daily x2", "AC": "None", "DType": "Status", "Range": "Field, Weather", "Effects": "The weather becomes Sunny for 5 rounds. While Sunny, Fire-Type Attacks gain a +5 bonus to Damage Rolls, and Water- Type Attacks suffer a -5 Damage penalty.", "Contest Type": "Beauty", "Contest Effect": "Sabotage"}}

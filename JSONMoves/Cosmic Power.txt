@@ -1,0 +1,1 @@
+{"Move1": {"Name": "Cosmic Power", "Type": "Psychic", "Freq": "EOT", "AC": "None", "DType": "Status", "Range": "Self", "Effects": "Raise the user\u2019s Defense 1 Combat Stage and raise the user\u2019s Special Defense 1 Combat Stage.", "Contest Type": "Cool", "Contest Effect": "Get Ready"}}

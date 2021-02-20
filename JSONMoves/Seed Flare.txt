@@ -1,0 +1,1 @@
+{"Move1": {"Name": "Seed Flare", "Type": "Grass", "Freq": "Scene", "AC": "5", "DB": "12", "DType": "Special", "Range": "6, Ranged Blast 3", "Effects": "All Legal Targets have their Special Defense lowered 1 Combat Stage.", "Contest Type": "Cool", "Contest Effect": "Seen Nothing Yet"}}

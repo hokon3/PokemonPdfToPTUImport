@@ -1,0 +1,1 @@
+{"Move1": {"Name": "Aqua Tail", "Type": "Water", "Freq": "EOT", "AC": "4", "DB": "9", "DType": "Physical", "Range": "Melee, Pass", "Contest Type": "Cute", "Contest Effect": "Steady Performance"}}

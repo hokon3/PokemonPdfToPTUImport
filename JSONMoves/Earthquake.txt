@@ -1,0 +1,1 @@
+{"Move1": {"Name": "Earthquake", "Type": "Ground", "Freq": "Scene", "AC": "2", "DB": "10", "DType": "Physical", "Range": "Burst 3, Groundsource", "Effects": "Earthquake can hit targets that are underground, including those using the Move Dig.", "Contest Type": "Tough", "Contest Effect": "Desperation"}}

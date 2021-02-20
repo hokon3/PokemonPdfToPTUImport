@@ -1,0 +1,1 @@
+{"Move1": {"Name": "Bestow", "Type": "Normal", "Freq": "At-Will", "AC": "None", "DType": "Status", "Range": "Melee, 1 Target, Swift Action", "Effects": "The user gives its held item to the target, unless the target is already holding an item.", "Contest Type": "Cute", "Contest Effect": "Attention Grabber"}}

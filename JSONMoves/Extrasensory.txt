@@ -1,0 +1,1 @@
+{"Move1": {"Name": "Extrasensory", "Type": "Psychic", "Freq": "EOT", "AC": "2", "DB": "8", "DType": "Special", "Range": "5, 1 Target", "Effects": "Extrasensory Flinches the target on 19+.", "Contest Type": "Cool", "Contest Effect": "Exhausting Act"}}

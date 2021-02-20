@@ -1,0 +1,1 @@
+{"Move1": {"Name": "Tearful Look", "Type": "Normal", "Freq": "EOT", "AC": "2", "DType": "Status", "Range": "Burst 1, Social, Friendly", "Effects": "Tearful Look lowers all Legal Targets\u2019 Attack and Special Attack 1 Combat Stage.", "Contest Type": "Cute", "Contest Effect": "Sabotage"}}

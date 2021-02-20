@@ -1,0 +1,1 @@
+{"Move1": {"Name": "Gastro Acid", "Type": "Poison", "Freq": "Scene", "AC": "2", "DType": "Status", "Range": "4, 1 Target", "Effects": "The target\u2019s Ability is disabled until the end of the encounter. If the target has more than one Ability, you choose one of them to disable.", "Contest Type": "Beauty", "Contest Effect": "Sabotage"}}

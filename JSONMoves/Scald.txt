@@ -1,0 +1,1 @@
+{"Move1": {"Name": "Scald", "Type": "Water", "Freq": "Scene x2", "AC": "2", "DB": "8", "DType": "Special", "Range": "5, 1 Target", "Effects": "Scald Burns the target on 15+.", "Contest Type": "Smart", "Contest Effect": "Steady Performance"}}

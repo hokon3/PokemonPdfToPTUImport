@@ -1,0 +1,1 @@
+{"Move1": {"Name": "Frost Breath", "Type": "Ice", "Freq": "EOT", "AC": "3", "DB": "6", "DType": "Special", "Range": "4, 1 Target", "Effects": "If Frost Breath hits, it is a Critical Hit.", "Contest Type": "Beauty", "Contest Effect": "Steady Performance"}}

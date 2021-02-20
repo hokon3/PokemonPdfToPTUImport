@@ -1,0 +1,1 @@
+{"Move1": {"Name": "Rock Blast", "Type": "Rock", "Freq": "EOT", "AC": "5", "DB": "3", "DType": "Physical", "Range": "6, 1 Target, Five Strike", "Contest Type": "Tough", "Contest Effect": "Reliable"}}

@@ -1,0 +1,1 @@
+{"Move1": {"Name": "Will-O-Wisp", "Type": "Fire", "Freq": "EOT", "AC": "5", "DType": "Status", "Range": "6, 1 Target", "Effects": "The target is Burned.", "Contest Type": "Beauty", "Contest Effect": "Exhausting Act"}}

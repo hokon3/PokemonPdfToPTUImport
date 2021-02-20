@@ -1,0 +1,1 @@
+{"Move1": {"Rock Moves": "", "Name": "Accelerock", "Type": "Rock", "Freq": "At-Will", "AC": "2", "DB": "4", "DType": "Physical", "Range": "Melee, 1 Target, Priority", "Contest Type": "Tough", "Contest Effect": "Saving Grace"}}

@@ -1,0 +1,1 @@
+{"Move1": {"Name": "Bulldoze", "Type": "Ground", "Freq": "EOT", "AC": "3", "DB": "6", "DType": "Physical", "Range": "Burst 1", "Effects": "All Legal Targets are lowered 1 Speed Combat Stage.", "Contest Type": "Cool", "Contest Effect": "Steady Performance"}}

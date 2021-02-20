@@ -1,0 +1,1 @@
+{"Move1": {"Name": "Fusion Flare", "Type": "Fire", "Freq": "Scene x2", "AC": "2", "DB": "10", "DType": "Special", "Range": "8, 1 Target, Smite", "Effects": "If Fusion Bolt was used this round or last round by any participant of the encounter, Fusion Flare has its Damage Base increased by +3.", "Contest Type": "Beauty", "Contest Effect": "Seen Nothing Yet"}}

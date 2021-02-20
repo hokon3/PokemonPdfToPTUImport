@@ -1,0 +1,1 @@
+{"Move1": {"Ice Moves": "", "Name": "Aurora Beam", "Type": "Ice", "Freq": "At-Will", "AC": "2", "DB": "7", "DType": "Special", "Range": "6, 1 Target", "Effects": "Aurora Beam lowers the target\u2019s Attack 1 Combat Stage on 18+.", "Contest Type": "Beauty", "Contest Effect": "Exhausting Act"}}

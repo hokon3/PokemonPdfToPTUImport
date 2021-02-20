@@ -1,0 +1,1 @@
+{"Move1": {"Name": "Disarming Voice", "Type": "Fairy", "Freq": "At-Will", "AC": "None", "DB": "4", "DType": "Special", "Range": "Burst 1, Sonic", "Effects": "Disarming Voice cannot miss.", "Contest Type": "Cute", "Contest Effect": "Exhausting Act"}}

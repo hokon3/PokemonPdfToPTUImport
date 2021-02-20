@@ -1,0 +1,1 @@
+{"Move1": {"Name": "Poison Tail", "Type": "Poison", "Freq": "At-Will", "AC": "2", "DB": "5", "DType": "Physical", "Range": "Melee, 1 Target", "Effects": "Poison Tail is a Critical Hit on 18+, and Poisons the target on 19+.", "Contest Type": "Smart", "Contest Effect": "Incentives"}}

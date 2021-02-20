@@ -1,0 +1,1 @@
+{"Move1": {"Name": "Sparkling Aria", "Type": "Water", "Freq": "EOT", "AC": "2", "DB": "9", "DType": "Special", "Range": "Cone 2, Sonic", "Effects": "When you hit a target with Sparkling Aria, the user may choose to deal no damage and instead cure that target of Burn, Confusion, Infatuation, or Rage.", "Contest Type": "Beauty", "Contest Effect": "Attention Grabber"}}

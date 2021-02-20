@@ -1,0 +1,1 @@
+{"Move1": {"Name": "Cross Chop", "Type": "Fighting", "Freq": "Scene x2", "AC": "4", "DB": "10", "DType": "Physical", "Range": "Melee, 1 Target", "Effects": "Cross Chop is a Critical Hit on 16+.", "Contest Type": "Cool", "Contest Effect": "Desperation"}}

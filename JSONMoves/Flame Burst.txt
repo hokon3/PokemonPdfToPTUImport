@@ -1,0 +1,1 @@
+{"Move1": {"Special": "Grants Firestarter", "Name": "Flame Burst", "Type": "Fire", "Freq": "At-Will", "AC": "2", "DB": "7", "DType": "Special", "Range": "6, 1 Target", "Effects": "Any Trainers or Pok\u00e9mon cardinally adjacent to the target lose 5 Hit Points.", "Contest Type": "Beauty", "Contest Effect": "Exhausting Act"}}

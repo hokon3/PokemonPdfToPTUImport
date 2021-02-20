@@ -1,0 +1,1 @@
+{"Move1": {"Name": "Smart Strike", "Type": "Steel", "Freq": "EOT", "AC": "None", "DB": "7", "DType": "Physical", "Range": "Melee, 1 Target", "Effects": "Smart Strike cannot miss.", "Contest Type": "Smart", "Contest Effect": "Safe Option"}}

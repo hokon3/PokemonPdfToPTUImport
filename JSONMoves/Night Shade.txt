@@ -1,0 +1,1 @@
+{"Move1": {"Name": "Night Shade", "Type": "Ghost", "Freq": "Scene x2", "AC": "2", "DType": "Special", "Range": "8, 1 Target", "Effects": "The target loses Hit Points equal to the level of Night Shade\u2019s user. Do not apply weakness or resistance. Do not apply stats.", "Contest Type": "Smart", "Contest Effect": "Steady Performance"}}

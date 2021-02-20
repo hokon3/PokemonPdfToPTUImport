@@ -1,0 +1,1 @@
+{"Move1": {"Name": "Superpower", "Type": "Fighting", "Freq": "Scene x2", "AC": "2", "DB": "12", "DType": "Physical", "Range": "Melee, 1 Target, Dash, Reckless", "Effects": "Superpower lowers the user\u2019s Attack and Defense by 1 Combat Stage each.", "Contest Type": "Tough", "Contest Effect": "Desperation"}}

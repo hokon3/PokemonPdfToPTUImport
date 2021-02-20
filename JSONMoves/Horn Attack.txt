@@ -1,0 +1,1 @@
+{"Move1": {"Name": "Horn Attack", "Type": "Normal", "Freq": "At-Will", "AC": "2", "DB": "7", "DType": "Physical", "Range": "Melee, 1 Target, Dash", "Contest Type": "Cool", "Contest Effect": "Steady Performance"}}

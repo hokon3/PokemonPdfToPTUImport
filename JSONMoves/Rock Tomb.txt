@@ -1,0 +1,1 @@
+{"Move1": {"Name": "Rock Tomb", "Type": "Rock", "Freq": "At-Will", "AC": "3", "DB": "6", "DType": "Physical", "Range": "6, 1 Target", "Effects": "Rock Tomb lowers the target\u2019s Speed by -1 Combat Stage.", "Contest Type": "Smart", "Contest Effect": "Desperation"}}

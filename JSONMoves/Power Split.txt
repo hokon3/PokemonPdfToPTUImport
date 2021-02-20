@@ -1,0 +1,1 @@
+{"Move1": {"Name": "Power Split", "Type": "Psychic", "Freq": "Scene", "AC": "None", "DType": "Status", "Range": "Melee, 1 Target", "Effects": "The target has their Attack and Special Attack lowered by 5. If they do, the user gains a +5 bonus to Damage Rolls. These effects last until the end of the scene.", "Contest Type": "Beauty", "Contest Effect": "Inversed Appeal"}}

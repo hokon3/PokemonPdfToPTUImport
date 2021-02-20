@@ -1,0 +1,1 @@
+{"Move1": {"Name": "Last Resort", "Type": "Normal", "Freq": "At-Will", "AC": "2", "DB": "14", "DType": "Physical", "Range": "Melee, 1 Target, Dash", "Effects": "Last Resort can only be used after the user has performed 5 other different Moves in its Move List during a single fight, without being switched out.", "Contest Type": "Cute", "Contest Effect": "Safe Option"}}

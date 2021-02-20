@@ -1,0 +1,1 @@
+{"Move1": {"Name": "Mimic", "Type": "Normal", "Freq": "Scene", "AC": "None", "DType": "Status", "Range": "6, 1 Target", "Effects": "Choose a Move that the target has used during the encounter. For the remainder of the encounter, that Move replaces Mimic on the user\u2019s Move List. Mimic cannot miss.", "Contest Type": "Cute", "Contest Effect": "Attention Grabber"}}

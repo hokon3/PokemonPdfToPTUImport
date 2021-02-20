@@ -1,0 +1,1 @@
+{"Move1": {"Name": "Swagger", "Type": "Normal", "Freq": "EOT", "AC": "5", "DType": "Status", "Range": "6, 1 Target, Social", "Effects": "The target\u2019s Attack is raised 2 Combat Stages. Swagger Confuses the target.", "Contest Type": "Cute", "Contest Effect": "Excitement"}}

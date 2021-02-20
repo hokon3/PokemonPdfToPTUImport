@@ -1,0 +1,1 @@
+{"Move1": {"Name": "Petal Dance", "Type": "Grass", "Freq": "Scene x2", "AC": "3", "DB": "12", "DType": "Special", "Range": "Melee, all adjacent foes, Smite, Reckless, Dance", "Effects": "After damage is dealt, the user becomes Enraged and Confused.", "Contest Type": "Beauty", "Contest Effect": "Safe Option"}}

@@ -1,0 +1,1 @@
+{"Move1": {"Special": "Grants Threaded", "Name": "String Shot", "Type": "Bug", "Freq": "At-Will", "AC": "3", "DType": "Status", "Range": "Cone 2", "Effects": "Targets have their Speed CS lowered by -1. If this lowers their Speed CS to -6, or if their Speed CS was already at -6, the target is instead Stuck.", "Contest Type": "Smart", "Contest Effect": "Excitement"}}

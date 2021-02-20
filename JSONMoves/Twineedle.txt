@@ -1,0 +1,1 @@
+{"Move1": {"Special": "Grants Glow", "Name": "Twineedle", "Type": "Bug", "Freq": "At-Will", "AC": "3", "DB": "3", "DType": "Physical", "Range": "Melee, 1 Target, Double Strike", "Effects": "Twineedle Poisons the target on an Accuracy Check of 18+", "Contest Type": "Cool", "Contest Effect": "Reliable"}}

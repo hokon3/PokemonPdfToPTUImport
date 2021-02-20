@@ -1,0 +1,1 @@
+{"Move1": {"Name": "Venoshock", "Type": "Poison", "Freq": "Scene x2", "AC": "2", "DB": "7", "DType": "Special", "Range": "6, 1 Target", "Effects": "If the target is Poisoned, Venoshock has a Damage Base of 13 (4d10+10 / 35) instead.", "Contest Type": "Smart", "Contest Effect": "Incentives"}}

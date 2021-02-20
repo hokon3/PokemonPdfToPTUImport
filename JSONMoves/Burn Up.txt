@@ -1,0 +1,1 @@
+{"Move1": {"Name": "Burn Up", "Type": "Fire", "Freq": "Daily x2", "AC": "2", "DB": "13", "DType": "Special", "Range": "Burst 1, Smite", "Effects": "Until the end of the encounter, the user loses its Fire- Type. Pure Fire-Types instead become Normal-Type.", "Contest Type": "Beauty", "Contest Effect": "Attention Grabber"}}

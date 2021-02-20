@@ -1,0 +1,1 @@
+{"Move1": {"Special": "Grants Long Jump +1", "Name": "Spotlight", "Type": "Normal", "Freq": "Daily", "AC": "None", "DType": "Status", "Range": "6, 1 Target, Priority", "Effects": "Until the end of the user\u2019s next turn, the target is Blinded and Vulnerable.", "Contest Type": "Smart", "Contest Effect": "Attention Grabber"}}

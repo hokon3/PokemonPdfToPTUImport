@@ -1,0 +1,1 @@
+{"Move1": {"Name": "Fury Swipes", "Type": "Normal", "Freq": "At-Will", "AC": "5", "DB": "3", "DType": "Physical", "Range": "Melee, 1 Target, Five Strike", "Contest Type": "Tough", "Contest Effect": "Reliable"}}

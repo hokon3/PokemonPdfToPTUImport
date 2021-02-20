@@ -1,0 +1,1 @@
+{"Move1": {"Name": "Roar of Time", "Type": "Dragon", "Freq": "Daily x2", "AC": "4", "DB": "15", "DType": "Special", "Range": "Burst 8, Smite, Exhaust", "Effects": "All legal targets are Slowed, even if the attack misses.", "Contest Type": "Cool", "Contest Effect": "Seen Nothing Yet"}}

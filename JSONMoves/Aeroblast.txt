@@ -1,0 +1,1 @@
+{"Move1": {"Name": "Aeroblast", "Type": "Flying", "Freq": "Daily", "AC": "3", "DB": "10", "DType": "Special", "Range": "Line 6", "Effects": "Aeroblast is a Critical Hit on an Even-Numbered Roll.", "Contest Type": "Cool", "Contest Effect": "Sen Nothing Yet"}}

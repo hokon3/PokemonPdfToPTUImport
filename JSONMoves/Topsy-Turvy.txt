@@ -1,0 +1,1 @@
+{"Move1": {"Name": "Topsy-Turvy", "Type": "Dark", "Freq": "EOT", "AC": "4", "DType": "Status", "Range": "6, 1 Target", "Effects": "The target\u2019s Combat Stages are inverted; +1 Stage becomes -1 Stage, -3 Stages becomes +3 Stages, etc.", "Contest Type": "Smart", "Contest Effect": "Unsettling"}}

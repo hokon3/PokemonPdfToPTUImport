@@ -1,0 +1,1 @@
+{"Move1": {"Name": "Magnet Rise", "Type": "Electric", "Freq": "Daily x2", "AC": "None", "DType": "Status", "Range": "Self, Swift Action", "Effects": "The user gains the Levitate Ability for 5 turns.", "Contest Type": "Cute", "Contest Effect": "Sabotage"}}

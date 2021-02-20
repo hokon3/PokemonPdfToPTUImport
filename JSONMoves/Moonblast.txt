@@ -1,0 +1,1 @@
+{"Move1": {"Name": "Moonblast", "Type": "Fairy", "Freq": "EOT", "AC": "2", "DB": "10", "DType": "Special", "Range": "6, 1 Target", "Effects": "Moonblast lowers the target\u2019s Special Attack by 1 Combat Stage on 15+.", "Contest Type": "Beauty", "Contest Effect": "Reflective Appeal"}}

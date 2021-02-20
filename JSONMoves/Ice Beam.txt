@@ -1,0 +1,1 @@
+{"Move1": {"Name": "Ice Beam", "Type": "Ice", "Freq": "EOT", "AC": "2", "DB": "9", "DType": "Special", "Range": "4, 1 Target", "Effects": "Ice Beam Freezes on 19+ during Accuracy Check.", "Contest Type": "Beauty", "Contest Effect": "Exhausting Act"}}

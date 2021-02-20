@@ -1,0 +1,1 @@
+{"Move1": {"Name": "Growth", "Type": "Normal", "Freq": "EOT", "AC": "None", "DType": "Status", "Range": "Self", "Effects": "Raise the user\u2019s Attack 1 Combat Stage and raise the user\u2019s Special Attack 1 Combat Stage. If it is Sunny, double the amount of Combat Stages gained.", "Contest Type": "Beauty", "Contest Effect": "Get Ready"}}

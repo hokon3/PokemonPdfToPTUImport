@@ -1,0 +1,1 @@
+{"Move1": {"Name": "Sandstorm", "Type": "Rock", "Freq": "Daily x2", "AC": "None", "DType": "Status", "Range": "Field, Weather", "Effects": "The weather changes to a Sandstorm for 5 rounds. While it is Sandstorming, all non-Ground, Rock, or Steel Type Pok\u00e9mon lose a Tick of Hit Points at the beginning of their turn.", "Contest Type": "Tough", "Contest Effect": "Sabotage"}}

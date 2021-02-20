@@ -1,0 +1,1 @@
+{"Move1": {"Name": "Feint", "Type": "Normal", "Freq": "Scene", "AC": "None", "DType": "Status", "Range": "Self, Trigger, Free Action", "Effects": "If a foe uses a Move with the Shield Keyword in response to one of your actions, you may activate Feint to cause the triggering Move to fail and be expended.", "Contest Type": "Beauty", "Contest Effect": "Inversed Appeal"}}

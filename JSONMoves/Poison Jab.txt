@@ -1,0 +1,1 @@
+{"Move1": {"Name": "Poison Jab", "Type": "Poison", "Freq": "EOT", "AC": "2", "DB": "8", "DType": "Physical", "Range": "Melee, 1 Target", "Effects": "Poison Jab Poisons the target on 15+.", "Contest Type": "Smart", "Contest Effect": "Incentives"}}

@@ -1,0 +1,1 @@
+{"Move1": {"Name": "Crunch", "Type": "Dark", "Freq": "EOT", "AC": "2", "DB": "8", "DType": "Physical", "Range": "Melee, 1 Target", "Effects": "Crunch lowers the target\u2019s Defense 1 Combat Stage on 17+.", "Contest Type": "Tough", "Contest Effect": "Exhausting Act"}}

@@ -1,0 +1,1 @@
+{"Move1": {"Name": "Nightmare", "Type": "Ghost", "Freq": "Scene x2", "AC": "2", "DType": "Status", "Range": "Melee, 1 Target", "Effects": "Nightmare can only hit Legal Targets that are Asleep. The target gains Bad Sleep.", "Contest Type": "Smart", "Contest Effect": "Excitement"}}

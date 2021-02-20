@@ -1,0 +1,1 @@
+{"Move1": {"Name": "Horn Leech", "Type": "Grass", "Freq": "Scene x2", "AC": "2", "DB": "8", "DType": "Physical", "Range": "Melee, 1 Target, Dash", "Effects": "After the target takes damage, the user gains Hit Points equal to half of the damage they dealt to the target.", "Contest Type": "Smart", "Contest Effect": "Good Show"}}

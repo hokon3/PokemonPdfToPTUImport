@@ -1,0 +1,1 @@
+{"Move1": {"Name": "Dynamic Punch", "Type": "Fighting", "Freq": "At-Will", "AC": "9", "DB": "10", "DType": "Physical", "Range": "Melee, 1 Target", "Effects": "Dynamic Punch Confuses the target. Dynamic Punch ignores the target\u2019s Evasion if they are Flanked.", "Contest Type": "Cool", "Contest Effect": "Desperation"}}

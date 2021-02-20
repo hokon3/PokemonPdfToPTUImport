@@ -1,0 +1,1 @@
+{"Move1": {"Special": "Grants Zapper", "Name": "Thunder Wave", "Type": "Electric", "Freq": "Scene x2", "AC": "4", "DType": "Status", "Range": "6, 1 Target", "Effects": "Thunder Wave Paralyzes the target. Targets immune to Electric Attacks are immune to Thunder Wave\u2019s effects.", "Contest Type": "Cool", "Contest Effect": "Excitement"}}

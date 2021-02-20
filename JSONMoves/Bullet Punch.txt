@@ -1,0 +1,1 @@
+{"Move1": {"Name": "Bullet Punch", "Type": "Steel", "Freq": "At-Will", "AC": "2", "DB": "4", "DType": "Physical", "Range": "Melee, 1 Target, Priority", "Contest Type": "Smart", "Contest Effect": "Saving Grace"}}

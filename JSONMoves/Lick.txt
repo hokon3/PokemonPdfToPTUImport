@@ -1,0 +1,1 @@
+{"Move1": {"Name": "Lick", "Type": "Ghost", "Freq": "At-Will", "AC": "2", "DB": "3", "DType": "Physical", "Range": "Melee, 1 Target", "Effects": "Lick Paralyzes the target on 15+ during Accuracy Check.", "Contest Type": "Tough", "Contest Effect": "Inversed Appeal"}}

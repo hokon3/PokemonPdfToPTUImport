@@ -1,0 +1,1 @@
+{"Move1": {"Name": "Boomburst", "Type": "Normal", "Freq": "Scene", "AC": "2", "DB": "14", "DType": "Special", "Range": "Burst 1, Sonic", "Contest Type": "Cool", "Contest Effect": "Seen Nothing Yet"}}

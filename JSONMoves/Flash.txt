@@ -1,0 +1,1 @@
+{"Move1": {"Name": "Flash", "Type": "Normal", "Freq": "EOT", "AC": "2", "DType": "Status", "Range": "Cone 2", "Effects": "The Accuracy of all Legal Targets is lowered by -1.", "Contest Type": "Beauty", "Contest Effect": "Unsettling"}}

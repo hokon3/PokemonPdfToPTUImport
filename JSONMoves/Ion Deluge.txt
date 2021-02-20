@@ -1,0 +1,1 @@
+{"Move1": {"Name": "Ion Deluge", "Type": "Electric", "Freq": "Scene", "AC": "None", "DType": "Status", "Range": "5, Ranged Blast 3, Interrupt, Hazard", "Effects": "An Ion Cloud Hazard is dispersed in the targeted area. All Normal-Type Moves targeting into or originating from the Ion Cloud become Electric-Typed Moves.", "Contest Type": "Smart", "Contest Effect": "Incentives"}}

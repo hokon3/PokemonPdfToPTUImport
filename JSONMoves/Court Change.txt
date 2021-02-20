@@ -1,0 +1,1 @@
+{"Move1": {"Name": "Court Change", "Type": "Normal", "Freq": "Daily", "AC": "None", "DType": "Status", "Range": "Field", "Effects": "All Blessings and Hazards swap which side that they belong to.", "Contest Type": "Smart", "Contest Effect": "Sabotage"}}

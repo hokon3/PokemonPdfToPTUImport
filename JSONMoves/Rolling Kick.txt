@@ -1,0 +1,1 @@
+{"Move1": {"Name": "Rolling Kick", "Type": "Fighting", "Freq": "At-Will", "AC": "4", "DB": "6", "DType": "Physical", "Range": "Melee, 1 Target", "Effects": "Rolling Kick Flinches the target on 15+.", "Contest Type": "Cool", "Contest Effect": "Steady Performance"}}

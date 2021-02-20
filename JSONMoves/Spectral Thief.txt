@@ -1,0 +1,1 @@
+{"Move1": {"Name": "Spectral Thief", "Type": "Ghost", "Freq": "Scene", "AC": "2", "DB": "9", "DType": "Physical", "Range": "Melee, 1 Target", "Effects": "Before rolling damage, transfer all Combat Stages on the target to the user.", "Contest Type": "Smart", "Contest Effect": "Attention Grabber"}}

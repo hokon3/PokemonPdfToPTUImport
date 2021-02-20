@@ -1,0 +1,1 @@
+{"Move1": {"Name": "Sludge Bomb", "Type": "Poison", "Freq": "EOT", "AC": "2", "DB": "9", "DType": "Special", "Range": "8, 1 Target", "Effects": "Sludge Bomb Poisons the target on 15+.", "Contest Type": "Tough", "Contest Effect": "Desperation"}}

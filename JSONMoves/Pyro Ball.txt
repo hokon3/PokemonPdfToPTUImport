@@ -1,0 +1,1 @@
+{"Move1": {"Name": "Pyro Ball", "Type": "Fire", "Freq": "Scene x2", "AC": "4", "DB": "12", "DType": "Physical", "Range": "6, 1 Target, Smite", "Effects": "The target is Burned on 19+.", "Contest Type": "Cool", "Contest Effect": "Attention Grabber"}}

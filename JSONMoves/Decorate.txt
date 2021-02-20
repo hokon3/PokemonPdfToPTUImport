@@ -1,0 +1,1 @@
+{"Move1": {"Name": "Decorate", "Type": "Fairy", "DType": "Status", "Range": "Can target others, unknown range", "Effects": "From bulbapedia: Decorate raises the target's Attack and Special Attack stat by two stages. Unlike most moves, it bypasses moves like Protect and Detect to affect the target, but is blocked by Crafty Shield."}}

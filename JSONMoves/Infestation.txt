@@ -1,0 +1,1 @@
+{"Move1": {"Name": "Infestation", "Type": "Bug", "Freq": "Scene x2", "AC": "4", "DB": "4", "DType": "Special", "Range": "3, 1 Target", "Effects": "The target is put in a Vortex.", "Contest Type": "Smart", "Contest Effect": "Gamble"}}

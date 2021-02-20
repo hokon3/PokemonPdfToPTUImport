@@ -1,0 +1,1 @@
+{"Move1": {"Name": "Fleur Cannon", "Type": "Fairy", "Freq": "Scene", "AC": "4", "DB": "13", "DType": "Special", "Range": "Line 9, Smite", "Effects": "Lower the user\u2019s Special Attack 2 Combat Stages after damage.", "Contest Type": "Beauty", "Contest Effect": "Seen Nothing Yet"}}

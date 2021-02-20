@@ -1,0 +1,1 @@
+{"Move1": {"Name": "Low Kick", "Type": "Fighting", "Freq": "EOT", "AC": "2", "Damage Base": "See Effect", "DType": "Physical", "Range": "Melee, 1 Target, Weight Class", "Effects": "Low Kick\u2019s Damage Base is equal to twice the target\u2019s Weight Class.", "Contest Type": "Tough", "Contest Effect": "Steady Performance"}}

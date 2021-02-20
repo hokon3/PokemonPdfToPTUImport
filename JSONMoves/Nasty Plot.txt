@@ -1,0 +1,1 @@
+{"Move1": {"Name": "Nasty Plot", "Type": "Dark", "Freq": "EOT", "AC": "None", "DType": "Status", "Range": "Self", "Effects": "Raise the user\u2019s Special Attack 2 Combat Stages.", "Contest Type": "Cute", "Contest Effect": "Get Ready"}}

@@ -1,0 +1,1 @@
+{"Move1": {"Name": "Pollen Puff", "Type": "Bug", "Freq": "EOT", "AC": "2", "DB": "9", "DType": "Special", "Range": "6, 1 Target", "Effects": "Once per Scene, Pollen Puff may instead be used on an ally; when used this way, the target recovers 50% of their maximum Hit Points and the Move has the Healing keyword.", "Contest Type": "Beauty", "Contest Effect": "Reflective Appeal"}}

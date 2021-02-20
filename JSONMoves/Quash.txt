@@ -1,0 +1,1 @@
+{"Move1": {"Name": "Quash", "Type": "Dark", "Freq": "At-Will", "AC": "2", "DType": "Status", "Range": "10, 1 Target, Social", "Effects": "Quash changes the target\u2019s Initiative to 0 for the remainder of the round", "Contest Type": "Smart", "Contest Effect": "Saving Grace"}}

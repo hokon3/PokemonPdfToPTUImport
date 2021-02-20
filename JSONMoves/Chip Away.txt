@@ -1,0 +1,1 @@
+{"Move1": {"Name": "Chip Away", "Type": "Normal", "Freq": "EOT", "AC": "2", "DB": "7", "DType": "Physical", "Range": "Melee, 1 Target", "Effects": "Ignore any Armor, Damage Reduction, or changes in the target\u2019s Defense or Special Defense (such as from Combat Stages) when calculating damage.", "Contest Type": "Tough", "Contest Effect": "Reliable"}}

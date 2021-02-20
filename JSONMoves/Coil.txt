@@ -1,0 +1,1 @@
+{"Move1": {"Name": "Coil", "Type": "Poison", "Freq": "Scene", "AC": "None", "DType": "Status", "Range": "Self", "Effects": "Raise the user\u2019s Attack 1 Combat Stage, raise the user\u2019s Defense 1 Combat Stage, and the user gains +1 Accuracy.", "Contest Type": "Cute", "Contest Effect": "Get Ready"}}

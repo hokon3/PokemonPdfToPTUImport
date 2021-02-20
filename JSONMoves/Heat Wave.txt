@@ -1,0 +1,1 @@
+{"Move1": {"Name": "Heat Wave", "Type": "Fire", "Freq": "Scene x2", "AC": "4", "DB": "10", "DType": "Special", "Range": "Close Blast 3, Smite", "Effects": "Heat Wave Burns all Legal Targets on 18+.", "Contest Type": "Beauty", "Contest Effect": "Exhausting Act"}}

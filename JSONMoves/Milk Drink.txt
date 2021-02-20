@@ -1,0 +1,1 @@
+{"Move1": {"Name": "Milk Drink", "Type": "Normal", "Freq": "Daily x2", "AC": "None", "DType": "Status", "Range": "Melee, 1 Target or Self; Healing", "Effects": "The target regains Hit Points equal to half of its full Hit Point value.", "Contest Type": "Cute", "Contest Effect": "Reflective Appeal"}}

@@ -1,0 +1,1 @@
+{"Move1": {"Name": "Lava Plume", "Type": "Fire", "Freq": "EOT", "AC": "2", "DB": "8", "DType": "Special", "Range": "Burst 1", "Effects": "Lava Plume burns all targets on 16+.", "Contest Type": "Tough", "Contest Effect": "Exhausting Act"}}

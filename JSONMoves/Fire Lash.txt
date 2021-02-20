@@ -1,0 +1,1 @@
+{"Move1": {"Name": "Fire Lash", "Type": "Fire", "Freq": "EOT", "AC": "2", "DB": "8", "DType": "Physical", "Range": "2, 1 Target", "Effects": "The target\u2019s Defense is lowered by 1 Combat Stage.", "Contest Type": "Cool", "Contest Effect": "Safe Option"}}

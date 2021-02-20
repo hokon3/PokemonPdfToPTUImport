@@ -1,0 +1,1 @@
+{"Move1": {"Name": "Thief", "Type": "Dark", "Freq": "At-Will", "AC": "2", "DB": "6", "DType": "Physical", "Range": "Melee, 1 Target", "Effects": "Thief takes the target\u2019s Held Item or Accessory Slot Item and attaches it to Thief\u2019s user, if the user is not holding anything.", "Contest Type": "Tough", "Contest Effect": "Attention Grabber"}}

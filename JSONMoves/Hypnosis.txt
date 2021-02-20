@@ -1,0 +1,1 @@
+{"Move1": {"Name": "Hypnosis", "Type": "Psychic", "Freq": "Scene x2", "AC": "6", "DType": "Status", "Range": "4, 1 Target", "Effects": "The target falls Asleep.", "Contest Type": "Smart", "Contest Effect": "Excitement"}}

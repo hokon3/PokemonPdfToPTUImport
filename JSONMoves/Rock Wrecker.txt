@@ -1,0 +1,1 @@
+{"Move1": {"Special": "Grants Materializer", "Name": "Rock Wrecker", "Type": "Rock", "Freq": "Daily x2", "AC": "4", "DB": "15", "DType": "Physical", "Range": "Melee, 1 Target, Dash, Exhaust, Smite", "Contest Type": "Tough", "Contest Effect": "Seen Nothing Yet"}}

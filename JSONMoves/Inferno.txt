@@ -1,0 +1,1 @@
+{"Move1": {"Name": "Inferno", "Type": "Fire", "Freq": "At-Will", "AC": "9", "DB": "10", "DType": "Special", "Range": "6, 1 Target", "Effects": "Inferno Burns the target. Inferno ignores the target\u2019s Evasion if there are no other combatants or Rough or Blocking Terrain within 2 meters of the target.", "Contest Type": "Beauty", "Contest Effect": "Steady Performance"}}

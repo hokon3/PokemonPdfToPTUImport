@@ -1,0 +1,1 @@
+{"Move1": {"Name": "Play Rough", "Type": "Fairy", "Freq": "EOT", "AC": "4", "DB": "9", "DType": "Physical", "Range": "Melee, 1 Target", "Effects": "Play Rough lowers the target\u2019s Attack by 1 Combat Stage on 17+.", "Contest Type": "Cute", "Contest Effect": "Excitement"}}

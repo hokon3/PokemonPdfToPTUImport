@@ -1,0 +1,1 @@
+{"Move1": {"Name": "Shadow Bone", "Type": "Ghost", "Freq": "EOT", "AC": "2", "DB": "9", "DType": "Physical", "Range": "Melee, 1 Target", "Effects": "The target\u2019s Defense is lowered by 1 Combat Stage on a 17+.", "Contest Type": "Tough", "Contest Effect": "Steady Performance"}}

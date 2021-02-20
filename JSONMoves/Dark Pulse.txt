@@ -1,0 +1,1 @@
+{"Move1": {"Name": "Dark Pulse", "Type": "Dark", "Freq": "EOT", "AC": "2", "DB": "8", "DType": "Special", "Range": "8, 1 Target, Aura", "Effects": "Dark Pulse Flinches the target on 17+.", "Contest Type": "Cool", "Contest Effect": "Exhausting Act"}}

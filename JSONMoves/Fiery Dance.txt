@@ -1,0 +1,1 @@
+{"Move1": {"Name": "Fiery Dance", "Type": "Fire", "Freq": "EOT", "AC": "2", "DB": "8", "DType": "Special", "Range": "4, 1 Target, Dance", "Effects": "If Fiery Dance successfully hits a foe, it raises the user\u2019s Special Attack by 1 Combat Stage on Even-Numbered Rolls.", "Contest Type": "Cool", "Contest Effect": "Desperation"}}

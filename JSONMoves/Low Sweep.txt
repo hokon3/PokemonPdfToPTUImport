@@ -1,0 +1,1 @@
+{"Move1": {"Name": "Low Sweep", "Type": "Fighting", "Freq": "EOT", "AC": "2", "DB": "7", "DType": "Physical", "Range": "Melee, 1 Target", "Effects": "Lowers the Target\u2019s Speed 1 Combat Stage.", "Contest Type": "Tough", "Contest Effect": "Steady Performance"}}

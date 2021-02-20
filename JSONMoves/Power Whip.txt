@@ -1,0 +1,1 @@
+{"Move1": {"Name": "Power Whip", "Type": "Grass", "Freq": "Scene x2", "AC": "5", "DB": "12", "DType": "Physical", "Range": "8, 1 Target, Smite", "Contest Type": "Beauty", "Contest Effect": "Steady Performance"}}

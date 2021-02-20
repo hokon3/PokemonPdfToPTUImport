@@ -1,0 +1,1 @@
+{"Move1": {"Name": "Heal Pulse", "Type": "Psychic", "Freq": "Daily x2", "AC": "None", "DType": "Status", "Range": "6, 1 Target, Aura, Healing", "Effects": "Restores 50% of the target\u2019s max Hit Points. Heal Pulse\u2019s user may not target itself with Heal Pulse.", "Contest Type": "Beauty", "Contest Effect": "Reflective Appeal"}}

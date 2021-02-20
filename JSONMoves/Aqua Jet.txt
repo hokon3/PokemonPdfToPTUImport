@@ -1,0 +1,1 @@
+{"Move1": {"Water Moves": "", "Name": "Aqua Jet", "Type": "Water", "Freq": "At-Will", "AC": "2", "DB": "4", "DType": "Physical", "Range": "Melee, 1 Target, Priority", "Contest Type": "Beauty", "Contest Effect": "Saving Grace"}}

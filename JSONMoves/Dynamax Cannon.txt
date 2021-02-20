@@ -1,0 +1,1 @@
+{"Move1": {"Name": "Dynamax Cannon", "Type": "Dragon", "Freq": "Scene x2", "AC": "2", "DB": "10", "DType": "Special", "Range": "6, 1 Target", "Effects": "The DB of Dynamax Cannon increases by +2 for each positive CS the target has, to a maximum of DB 20.", "Contest Type": "Cool", "Contest Effect": "Unsettling"}}

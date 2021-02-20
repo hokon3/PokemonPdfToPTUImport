@@ -1,0 +1,1 @@
+{"Move1": {"Name": "Charge Beam", "Type": "Electric", "Freq": "At-Will", "AC": "4", "DB": "5", "DType": "Special", "Range": "6, 1 Target", "Effects": "If Charge Beam successfully hits a target, roll 1d20. On a roll of 7+, the user\u2019s Special Attack is raised by +1 Combat Stage.", "Contest Type": "Beauty", "Contest Effect": "Exhausting Act"}}

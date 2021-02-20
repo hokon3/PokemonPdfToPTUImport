@@ -1,0 +1,1 @@
+{"Move1": {"Name": "Clanging Scales", "Type": "Dragon", "Freq": "Scene x2", "AC": "2", "DB": "11", "DType": "Special", "Range": "6, 1 Target or Burst 1", "Effects": "The user adds half their Defense Stat to Clanging Scale's Damage Roll. After the Move is resolved, the user's Defense is lowered by 1 CS.", "Contest Type": "Cool", "Contest Effect": "Good Show"}}

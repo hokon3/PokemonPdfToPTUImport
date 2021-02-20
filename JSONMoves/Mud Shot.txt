@@ -1,0 +1,1 @@
+{"Move1": {"Name": "Mud Shot", "Type": "Ground", "Freq": "At-Will", "AC": "3", "DB": "6", "DType": "Special", "Range": "3, 1 Target", "Effects": "The target\u2019s Speed is lowed by -1 Combat Stage.", "Contest Type": "Tough", "Contest Effect": "Desperation"}}

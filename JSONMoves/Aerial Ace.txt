@@ -1,0 +1,1 @@
+{"Move1": {"Name": "Aerial Ace", "Type": "Flying", "Freq": "EOT", "AC": "None", "DB": "6", "DType": "Physical", "Range": "Melee, 1 Target", "Effects": "Aerial Ace cannot miss.", "Contest Type": "Cool", "Contest Effect": "Exhausting Act"}}

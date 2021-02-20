@@ -1,0 +1,1 @@
+{"Move1": {"Name": "Snatch", "Type": "Dark", "Freq": "Scene x2", "AC": "None", "DType": "Status", "Range": "6, 1 Target, Interrupt, Trigger", "Effects": "If the target uses a Self-Targeting Move, you may use Snatch. You gain the benefits of the Self-Targeting Move instead of the target.", "Contest Type": "Smart", "Contest Effect": "Attention Grabber"}}

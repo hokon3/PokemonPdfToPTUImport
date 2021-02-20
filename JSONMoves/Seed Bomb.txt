@@ -1,0 +1,1 @@
+{"Move1": {"Name": "Seed Bomb", "Type": "Grass", "Freq": "EOT", "AC": "2", "DB": "8", "DType": "Physical", "Range": "8, 1 Target", "Contest Type": "Smart", "Contest Effect": "Steady Performance"}}

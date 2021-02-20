@@ -1,0 +1,1 @@
+{"Move1": {"Name": "Reflect", "Type": "Psychic", "Freq": "Scene", "AC": "None", "DType": "Status", "Range": "Blessing", "Effects": "Blessing \u2013 Any user affected by Reflect may activate it when receiving Physical Damage to resist the Damage one step. Reflect may be activated 2 times, and then disappears.", "Contest Type": "Smart", "Contest Effect": "Excitement"}}

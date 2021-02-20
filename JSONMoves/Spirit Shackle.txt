@@ -1,0 +1,1 @@
+{"Move1": {"Name": "Spirit Shackle", "Type": "Ghost", "Freq": "EOT", "AC": "2", "DB": "8", "DType": "Physical", "Range": "8, 1 Target", "Effects": "The Target is Trapped for 2 rounds.", "Contest Type": "Smart", "Contest Effect": "Sabotage"}}

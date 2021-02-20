@@ -1,0 +1,1 @@
+{"Move1": {"Name": "Plasma Fists", "Type": "Electric", "Freq": "Scene", "AC": "2", "DB": "10", "DType": "Physical", "Range": "Melee, 1 Target, Smite", "Effects": "The target\u2019s next damaging Normal Type Move instead becomes Electric Type.", "Contest Type": "Cool", "Contest Effect": "Special Attention"}}

@@ -1,0 +1,1 @@
+{"Move1": {"Name": "Poison Powder", "Type": "Poison", "Freq": "EOT", "AC": "6", "DType": "Status", "Range": "4, 1 Target, Powder", "Effects": "The target is Poisoned.", "Contest Type": "Smart", "Contest Effect": "Excitement"}}

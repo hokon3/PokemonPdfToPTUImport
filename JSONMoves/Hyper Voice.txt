@@ -1,0 +1,1 @@
+{"Move1": {"Name": "Hyper Voice", "Type": "Normal", "Freq": "Scene x2", "AC": "2", "DB": "9", "DType": "Special", "Range": "Close Blast 3, Sonic, Smite", "Effects": "All Legal Targets are pushed back to the squares immediately outside the blast, away from the user.", "Contest Type": "Cool", "Contest Effect": "Steady Performance"}}

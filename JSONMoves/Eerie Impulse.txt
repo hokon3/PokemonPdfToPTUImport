@@ -1,0 +1,1 @@
+{"Move1": {"Name": "Eerie Impulse", "Type": "Electric", "Freq": "EOT", "AC": "2", "DType": "Status", "Range": "6, 1 Target", "Effects": "The target\u2019s Special Attack is lowered 2 Combat Stages.", "Contest Type": "Cool", "Contest Effect": "Excitement"}}

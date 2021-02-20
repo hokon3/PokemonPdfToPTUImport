@@ -1,0 +1,1 @@
+{"Move1": {"Name": "Steam Eruption", "Type": "Water", "Freq": "Scene", "AC": "3", "DB": "11", "DType": "Special", "Range": "Close Blast 3, Smite", "Effects": "Steam Eruption burns all legal targets on a 15+.", "Contest Type": "Cool", "Contest Effect": "Seen Nothing Yet"}}

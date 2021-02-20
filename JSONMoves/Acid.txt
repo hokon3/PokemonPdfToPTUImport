@@ -1,0 +1,1 @@
+{"Move1": {"Poison Moves": "", "Name": "Acid", "Type": "Poison", "Freq": "At-Will", "AC": "2", "DB": "4", "DType": "Special", "Range": "Cone 2", "Effects": "Acid lowers the target\u2019s Special Defense 1 Combat Stage on 18+.", "Contest Type": "Smart", "Contest Effect": "Steady Performance"}}

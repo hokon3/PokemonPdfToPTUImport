@@ -1,0 +1,1 @@
+{"Move1": {"Name": "Psychic", "Type": "Psychic", "Freq": "EOT", "AC": "2", "DB": "9", "DType": "Special", "Range": "5, 1 Target, Push", "Effects": "The target is Pushed 1 meter in any direction. Psychic lowers the target\u2019s Special Defense 1 Combat Stage on 17+.", "Contest Type": "Smart", "Contest Effect": "Exhausting Act"}}

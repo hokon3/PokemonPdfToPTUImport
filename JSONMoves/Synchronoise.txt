@@ -1,0 +1,1 @@
+{"Move1": {"Name": "Synchronoise", "Type": "Psychic", "Freq": "Scene x2", "AC": "2", "DB": "12", "DType": "Special", "Range": "Burst 3", "Effects": "Synchronoise can only hit targets that share a type with Synchronoise\u2019s user.", "Contest Type": "Smart", "Contest Effect": "Incentives"}}

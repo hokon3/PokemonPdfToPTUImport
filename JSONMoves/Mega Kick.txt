@@ -1,0 +1,1 @@
+{"Move1": {"Name": "Mega Kick", "Type": "Normal", "Freq": "Scene x2", "AC": "6", "DB": "12", "DType": "Physical", "Range": "Melee, 1 Target, Dash, Push, Smite", "Effects": "The target is Pushed 2 meters.", "Contest Type": "Cool", "Contest Effect": "Desperation"}}

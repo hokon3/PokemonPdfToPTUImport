@@ -1,0 +1,1 @@
+{"Move1": {"Special": "Grants Magnetic", "Name": "Nuzzle", "Type": "Electric", "Freq": "Scene", "AC": "2", "DB": "2", "DType": "Physical", "Range": "Melee, 1 Target", "Effects": "Nuzzle Paralyzes the target.", "Contest Type": "Cute", "Contest Effect": "Double Time"}}

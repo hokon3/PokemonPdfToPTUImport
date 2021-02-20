@@ -1,0 +1,1 @@
+{"Move1": {"Name": "Encore", "Type": "Normal", "Freq": "Scene x2", "AC": "2", "DType": "Status", "Range": "4, 1 Target, Social", "Effects": "Roll 1d6. On a result of 1 or 2, the target becomes Confused; on a result of 3 or 4 the target becomes Suppressed; on a result of 5 or 6 the target becomes Enraged.", "Contest Type": "Cute", "Contest Effect": "Good Show"}}

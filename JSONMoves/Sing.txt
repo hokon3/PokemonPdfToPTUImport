@@ -1,0 +1,1 @@
+{"Move1": {"Name": "Sing", "Type": "Normal", "Freq": "Scene", "AC": "10", "DType": "Status", "Range": "Burst 2, Friendly, Sonic", "Effects": "All legal Targets fall Asleep. On a miss, Sing instead causes targets to become Slowed and suffer a -2 penalty to their Evasion until the end of the user\u2019s next turn.", "Contest Type": "Cute", "Contest Effect": "Excitement"}}

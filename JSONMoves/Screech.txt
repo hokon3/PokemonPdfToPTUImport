@@ -1,0 +1,1 @@
+{"Move1": {"Name": "Screech", "Type": "Normal", "Freq": "EOT", "AC": "4", "DType": "Status", "Range": "Burst 2, Friendly, Sonic", "Effects": "All Legal Targets have their Defense lowered 2 Combat Stages.", "Contest Type": "Smart", "Contest Effect": "Unsettling"}}

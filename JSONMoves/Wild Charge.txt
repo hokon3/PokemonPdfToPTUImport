@@ -1,0 +1,1 @@
+{"Move1": {"Name": "Wild Charge", "Type": "Electric", "Freq": "At-Will", "AC": "2", "DB": "9", "DType": "Physical", "Range": "Melee, 1 Target, Dash, Recoil 1/4", "Contest Type": "Tough", "Contest Effect": "Steady Performance"}}

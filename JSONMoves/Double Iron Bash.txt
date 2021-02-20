@@ -1,0 +1,1 @@
+{"Move1": {"Name": "Double Iron Bash", "Type": "Steel", "Freq": "Scene x2", "AC": "2", "DB": "6", "DType": "Physical", "Range": "Melee, 1 Target, Double Strike", "Effects": "Double Iron Bash Flinches the targets on 15+.", "Contest Type": "Tough", "Contest Effect": "Reliable"}}

@@ -1,0 +1,1 @@
+{"Move1": {"Name": "Imprison", "Type": "Psychic", "Freq": "Scene x2", "AC": "None", "DType": "Status", "Range": "10, 1 Target", "Effects": "The target is Locked for the rest of the Scene. A Locked target may not use any Moves the user knows. Imprison cannot miss.", "Contest Type": "Smart", "Contest Effect": "Good Show"}}

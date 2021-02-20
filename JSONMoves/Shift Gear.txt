@@ -1,0 +1,1 @@
+{"Move1": {"Name": "Shift Gear", "Type": "Steel", "Freq": "Scene x2", "AC": "None", "DType": "Status", "Range": "Self", "Effects": "The user\u2019s Speed is increased by 2 CS, and the user\u2019s Attack is increased by 1 CS.", "Contest Type": "Smart", "Contest Effect": "Get Ready"}}

@@ -1,0 +1,1 @@
+{"Move1": {"Name": "Shadow Claw", "Type": "Ghost", "Freq": "EOT", "AC": "2", "DB": "7", "DType": "Physical", "Range": "Melee, Pass", "Effects": "Shadow Claw is a Critical Hit on 18+.", "Contest Type": "Cute", "Contest Effect": "Exhausting Act"}}

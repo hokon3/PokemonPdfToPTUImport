@@ -1,0 +1,1 @@
+{"Move1": {"Name": "Stored Power", "Type": "Psychic", "Freq": "EOT", "AC": "2", "DB": "2", "DType": "Special", "Range": "10, 1 Target", "Effects": "For every Combat Stage the user has above 0, add +2 to Stored Power\u2019s Damage Base, up to a maximum of Damage Base 20.", "Contest Type": "Tough", "Contest Effect": "Incentives"}}

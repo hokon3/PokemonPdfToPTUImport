@@ -1,0 +1,1 @@
+{"Move1": {"Name": "Force Palm", "Type": "Fighting", "Freq": "At-Will", "AC": "2", "DB": "6", "DType": "Physical", "Range": "Melee, 1 Target, Aura", "Effects": "Force Palm Paralyzes the target on 18+.", "Contest Type": "Cool", "Contest Effect": "Desperation"}}

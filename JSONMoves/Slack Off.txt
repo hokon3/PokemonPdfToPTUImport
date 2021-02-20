@@ -1,0 +1,1 @@
+{"Move1": {"Name": "Slack Off", "Type": "Normal", "Freq": "Daily x2", "AC": "None", "DType": "Status", "Range": "Self, Healing", "Effects": "The user regains Hit Points equal to half of its full Hit Points.", "Contest Type": "Cute", "Contest Effect": "Reflective Appeal"}}

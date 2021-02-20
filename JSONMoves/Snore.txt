@@ -1,0 +1,1 @@
+{"Move1": {"Name": "Snore", "Type": "Normal", "Freq": "EOT", "AC": "2", "DB": "5", "DType": "Special", "Range": "Burst 1, Sonic", "Effects": "Snore Flinches all legal targets on 15+. Snore may only be used by Sleeping users.", "Contest Type": "Cute", "Contest Effect": "Steady Performance"}}

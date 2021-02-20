@@ -1,0 +1,1 @@
+{"Move1": {"Name": "Leaf Storm", "Type": "Grass", "Freq": "Scene", "AC": "4", "DB": "13", "DType": "Special", "Range": "8, Ranged Blast 3, Smite, Reckless", "Effects": "Lower the user\u2019s Special Attack 2 Combat Stages after damage.", "Contest Type": "Cute", "Contest Effect": "Seen Nothing Yet"}}

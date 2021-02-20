@@ -1,0 +1,1 @@
+{"Move1": {"Special": "Grants Materializer", "Name": "Rock Polish", "Type": "Rock", "Freq": "EOT", "AC": "None", "DType": "Status", "Range": "Self", "Effects": "Raise the user\u2019s Speed 2 Combat Stages.", "Contest Type": "Tough", "Contest Effect": "Exhausting Act"}}

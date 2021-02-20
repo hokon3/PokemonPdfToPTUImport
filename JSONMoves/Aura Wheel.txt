@@ -1,0 +1,1 @@
+{"Move1": {"Electric Moves": "", "Name": "Aura Wheel", "Type": "Electric", "Freq": "Scene x2", "AC": "2", "DB": "11", "DType": "Physical", "Range": "Melee, 1 Target", "Effects": "The user\u2019s Speed is increased 1 CS.", "Contest Type": "Cool", "Contest Effect": "Special Attention"}}

@@ -1,0 +1,1 @@
+{"Move1": {"Name": "Diamond Storm", "Type": "Rock", "Freq": "Scene", "AC": "3", "DB": "10", "DType": "Physical", "Range": "Close Blast 3, Friendly, Smite", "Effects": "On Even-Numbered Rolls, Diamond Storm raises the User\u2019s Defense by 2 Combat Stages.", "Contest Type": "Beauty", "Contest Effect": "Seen Nothing Yet"}}

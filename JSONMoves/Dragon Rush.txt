@@ -1,0 +1,1 @@
+{"Move1": {"Name": "Dragon Rush", "Type": "Dragon", "Freq": "Scene x2", "AC": "4", "DB": "10", "DType": "Physical", "Range": "Melee, 1 Target, Dash, Push, Smite", "Effects": "The target is Pushed 3 meters. Dragon Rush Flinches the target on 17+.", "Contest Type": "Cool", "Contest Effect": "Desperation"}}

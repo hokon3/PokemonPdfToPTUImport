@@ -1,0 +1,1 @@
+{"Move1": {"Name": "Sacred Fire", "Type": "Fire", "Freq": "EOT", "AC": "3", "DB": "10", "DType": "Physical", "Range": "6, 1 Target", "Effects": "Sacred Fire Burns the target on Even-Numbered Rolls.", "Contest Type": "Beauty", "Contest Effect": "Seen Nothing Yet"}}

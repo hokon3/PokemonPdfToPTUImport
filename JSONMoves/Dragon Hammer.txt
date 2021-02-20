@@ -1,0 +1,1 @@
+{"Move1": {"Name": "Dragon Hammer", "Type": "Dragon", "Freq": "EOT", "AC": "2", "DB": "9", "DType": "Physical", "Range": "Melee, 1 Target or Line 3", "Contest Type": "Cool", "Contest Effect": "Big Show"}}

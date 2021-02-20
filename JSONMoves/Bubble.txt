@@ -1,0 +1,1 @@
+{"Move1": {"Name": "Bubble", "Type": "Water", "Freq": "At-Will", "AC": "2", "DB": "4", "DType": "Special", "Range": "Burst 1", "Effects": "Bubble lowers the target\u2019s Speed on 16+.", "Contest Type": "Cute", "Contest Effect": "Desperation"}}

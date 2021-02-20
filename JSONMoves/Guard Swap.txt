@@ -1,0 +1,1 @@
+{"Move1": {"Name": "Guard Swap", "Type": "Psychic", "Freq": "Scene", "AC": "None", "DType": "Status", "Range": "Melee, 1 Target", "Effects": "The user and the target trade Combat Stage values for the Defense Stat, and then for the Special Defense Stat.", "Contest Type": "Cute", "Contest Effect": "Inversed Appeal"}}

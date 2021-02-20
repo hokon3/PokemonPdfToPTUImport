@@ -1,0 +1,1 @@
+{"Move1": {"Name": "Body Press", "Type": "Fighting", "Freq": "Scene x2", "AC": "2", "DB": "8", "DType": "Physical", "Range": "Melee, 1 Target", "Effects": "The user\u2019s Defense Stat is added to the damage roll instead of the Attack Stat.", "Contest Type": "Tough", "Contest Effect": "Gamble"}}

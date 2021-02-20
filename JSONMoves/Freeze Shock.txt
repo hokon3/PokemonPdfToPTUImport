@@ -1,0 +1,1 @@
+{"Move1": {"Name": "Freeze Shock", "Type": "Ice", "Freq": "Scene", "AC": "4", "DB": "14", "DType": "Physical", "Range": "10, 1 Target, Set-Up, Full Action", "Set-Up Effect": "The user may Shift, then ends their turn.", "Resolution Effect": "The user attacks with Freeze Shock. Freeze Shock Paralyzes on 15+.", "Contest Type": "Beauty", "Contest Effect": "Seen Nothing Yet"}}

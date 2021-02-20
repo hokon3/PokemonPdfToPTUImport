@@ -1,0 +1,1 @@
+{"Move1": {"Bug Moves": "", "Name": "Attack Order", "Type": "Bug", "Freq": "EOT", "AC": "2", "DB": "9", "DType": "Physical", "Range": "6, 1 Target", "Effects": "Attack Order is a Critical Hit on 18+.", "Contest Type": "Smart", "Contest Effect": "Incentives"}}

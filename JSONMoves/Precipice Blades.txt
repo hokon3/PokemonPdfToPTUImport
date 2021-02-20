@@ -1,0 +1,1 @@
+{"Move1": {"Name": "Precipice Blades", "Type": "Ground", "Freq": "Scene x2", "AC": "5", "DB": "12", "DType": "Physical", "Range": "Burst 1, Smite", "Contest Type": "Cool", "Contest Effect": "Desperation"}}

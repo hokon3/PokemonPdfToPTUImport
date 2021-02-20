@@ -1,0 +1,1 @@
+{"Move1": {"Name": "Horn Drill", "Type": "Normal", "Freq": "Daily", "AC": "None", "DType": "Status", "Range": "Melee, 1 Target, Execute", "Effects": "Roll 1d100. This roll may not be modified in any way.  If you roll X or lower, the target Faints. X is equal to 30 + The User\u2019s Level - The Target\u2019s Level.", "Contest Type": "Cool", "Contest Effect": "Big Show"}}

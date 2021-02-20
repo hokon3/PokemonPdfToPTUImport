@@ -1,0 +1,1 @@
+{"Move1": {"Name": "Meteor Mash", "Type": "Steel", "Freq": "EOT", "AC": "4", "DB": "9", "DType": "Physical", "Range": "Melee, 1 Target, Dash, Spirit Surge", "Effects": "Raise the user\u2019s Attack 1 Combat Stage on 15+.", "Contest Type": "Cool", "Contest Effect": "Desperation"}}

@@ -1,0 +1,1 @@
+{"Move1": {"Name": "Spore", "Type": "Grass", "Freq": "Scene", "AC": "None", "DType": "Status", "Range": "4, 1 Target, Powder", "Effects": "The target falls Asleep.", "Contest Type": "Beauty", "Contest Effect": "Get Ready"}}

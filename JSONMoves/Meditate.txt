@@ -1,0 +1,1 @@
+{"Move1": {"Name": "Meditate", "Type": "Psychic", "Freq": "At-Will", "AC": "None", "DType": "Status", "Range": "Self", "Effects": "Raise the user\u2019s Attack 1 Combat Stage.", "Contest Type": "Beauty", "Contest Effect": "Get Ready"}}

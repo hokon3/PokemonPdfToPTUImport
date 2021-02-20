@@ -1,0 +1,1 @@
+{"Move1": {"Name": "Pin Missile", "Type": "Bug", "Freq": "EOT", "AC": "4", "DB": "3", "DType": "Physical", "Range": "6, 1 Target, Five Strike", "Contest Type": "Cool", "Contest Effect": "Reliable"}}

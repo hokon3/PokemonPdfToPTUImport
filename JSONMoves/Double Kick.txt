@@ -1,0 +1,1 @@
+{"Move1": {"Name": "Double Kick", "Type": "Fighting", "Freq": "At-Will", "AC": "3", "DB": "3", "DType": "Physical", "Range": "Melee, 1 Target, Double Strike", "Contest Type": "Cool", "Contest Effect": "Reliable"}}

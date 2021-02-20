@@ -1,0 +1,1 @@
+{"Move1": {"Name": "Brick Break", "Type": "Fighting", "Freq": "At-Will", "AC": "2", "DB": "8", "DType": "Physical", "Range": "Melee, 1 Target", "Effects": "Light Screen, Reflect, and Aurora Veil may not be activated in response to Brick Break.", "Contest Type": "Cool", "Contest Effect": "Steady Performance"}}

@@ -1,0 +1,1 @@
+{"Move1": {"Name": "Feather Dance", "Type": "Flying", "Freq": "EOT", "AC": "2", "DType": "Status", "Range": "Burst 1, Friendly, Dance", "Effects": "All legal targets have their Attack lowered 2 Combat Stages.", "Contest Type": "Beauty", "Contest Effect": "Excitement"}}

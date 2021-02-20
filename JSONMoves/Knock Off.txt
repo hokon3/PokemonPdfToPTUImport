@@ -1,0 +1,1 @@
+{"Move1": {"Name": "Knock Off", "Type": "Dark", "Freq": "Scene", "AC": "2", "DB": "7", "DType": "Physical", "Range": "Melee, 1 Target", "Effects": "Choose one of the target\u2019s Held Items or Accessory Slot Items. It is knocked to the ground.", "Contest Type": "Smart", "Contest Effect": "Steady Performance"}}

@@ -1,0 +1,1 @@
+{"Move1": {"Name": "Attract", "Type": "Normal", "Freq": "Scene x2", "AC": "2", "DType": "Status", "Range": "3, 1 Target, Social", "Effects": "Attract Infatuates the target if its gender is the opposite of the user\u2019s. Attract fails when used by or against Genderless targets.", "Contest Type": "Cute", "Contest Effect": "Excitement"}}

@@ -1,0 +1,1 @@
+{"Move1": {"Name": "Zing Zap", "Type": "Electric", "Freq": "EOT", "AC": "2", "DB": "8", "DType": "Physical", "Range": "Melee, 1 Target", "Effects": "Zing Zap Flinches the target on 15+.", "Contest Type": "Cool", "Contest Effect": "Tease"}}

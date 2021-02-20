@@ -1,0 +1,1 @@
+{"Move1": {"Special": "Grants Guster", "Name": "Wing Attack", "Type": "Flying", "Freq": "At-Will", "AC": "2", "DB": "6", "DType": "Physical", "Range": "Melee, 1 Target", "Contest Type": "Cool", "Contest Effect": "Steady Performance"}}

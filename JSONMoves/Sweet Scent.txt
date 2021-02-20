@@ -1,0 +1,1 @@
+{"Move1": {"Name": "Sweet Scent", "Type": "Normal", "Freq": "Scene", "AC": "2", "DType": "Status", "Range": "Burst 2, Friendly", "Effects": "Targets hit by Sweet Scent gain a -2 Penalty to Evasion. (Total Evasion may not be lowered to a negative value. )", "Contest Type": "Cute", "Contest Effect": "Excitement"}}

@@ -1,0 +1,1 @@
+{"Move1": {"Name": "Vice Grip", "Type": "Normal", "Freq": "At-Will", "AC": "2", "DB": "6", "DType": "Physical", "Range": "Melee, 1 Target", "Contest Type": "Tough", "Contest Effect": "Steady Performance"}}

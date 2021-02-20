@@ -1,0 +1,1 @@
+{"Move1": {"Name": "Scary Face", "Type": "Normal", "Freq": "EOT", "AC": "2", "DType": "Status", "Range": "4, 1 Target, Social", "Effects": "The target\u2019s Speed is lowered 2 Combat Stages.", "Contest Type": "Tough", "Contest Effect": "Desperation"}}

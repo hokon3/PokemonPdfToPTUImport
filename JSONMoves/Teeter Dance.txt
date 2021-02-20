@@ -1,0 +1,1 @@
+{"Move1": {"Name": "Teeter Dance", "Type": "Normal", "Freq": "Scene", "AC": "2", "DType": "Status", "Range": "Burst 1, Dance", "Effects": "Teeter Dance Confuses all Legal Targets.", "Contest Type": "Cute", "Contest Effect": "Tease"}}

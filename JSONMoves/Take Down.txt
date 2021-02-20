@@ -1,0 +1,1 @@
+{"Move1": {"Name": "Take Down", "Type": "Normal", "Freq": "EOT", "AC": "5", "DB": "9", "DType": "Physical", "Range": "Melee, 1 Target, Dash, Recoil 1/3", "Effects": "You may perform a Trip Maneuver against the target as a Free Action.", "Contest Type": "Tough", "Contest Effect": "Steady Performance"}}

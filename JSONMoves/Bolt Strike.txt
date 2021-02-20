@@ -1,0 +1,1 @@
+{"Move1": {"Name": "Bolt Strike", "Type": "Electric", "Freq": "Scene x2", "AC": "5", "DB": "13", "DType": "Physical", "Range": "10, 1 Target, Smite", "Effects": "Bolt Strike Paralyzes the target on 17+.", "Contest Type": "Cool", "Contest Effect": "Desperation"}}

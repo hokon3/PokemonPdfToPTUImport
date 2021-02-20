@@ -1,0 +1,1 @@
+{"Move1": {"Name": "Wring Out", "Type": "Normal", "Freq": "Scene x2", "AC": "2", "DB": "12", "DType": "Special", "Range": "Melee, 1 Target", "Effects": "For every 10% the target is below their full Hit Points, Wring Out\u2019s Damage Base is reduced by 1.", "Contest Type": "Smart", "Contest Effect": "Seen Nothing Yet"}}

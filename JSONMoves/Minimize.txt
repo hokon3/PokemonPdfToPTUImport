@@ -1,0 +1,1 @@
+{"Move1": {"Name": "Minimize", "Type": "Normal", "Freq": "Scene", "AC": "None", "DType": "Status", "Range": "Self", "Effects": "The user gains +4 Evasion, and user\u2019s size is lowered to Small for the remainder of the encounter.", "Contest Type": "Cute", "Contest Effect": "Sabotage"}}

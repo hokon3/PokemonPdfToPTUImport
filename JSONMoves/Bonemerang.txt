@@ -1,0 +1,1 @@
+{"Move1": {"Name": "Bonemerang", "Type": "Ground", "Freq": "EOT", "AC": "3", "DB": "5", "DType": "Physical", "Range": "6, 1 Target, Double Strike", "Contest Type": "Tough", "Contest Effect": "Reliable"}}

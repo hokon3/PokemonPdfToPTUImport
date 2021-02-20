@@ -1,0 +1,1 @@
+{"Move1": {"Name": "Signal Beam", "Type": "Bug", "Freq": "EOT", "AC": "2", "DB": "8", "DType": "Special", "Range": "6, 1 Target", "Effects": "Signal Beam confuses the target on 19+.", "Contest Type": "Beauty", "Contest Effect": "Incentives"}}

@@ -1,0 +1,1 @@
+{"Move1": {"Name": "Metal Claw", "Type": "Steel", "Freq": "At-Will", "AC": "3", "DB": "5", "DType": "Physical", "Range": "Melee, 1 Target, Spirit Surge", "Effects": "Raise the user\u2019s Attack 1 Combat Stage on 18+.", "Contest Type": "Cool", "Contest Effect": "Incentives"}}

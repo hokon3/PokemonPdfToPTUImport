@@ -1,0 +1,1 @@
+{"Move1": {"Name": "Ice Hammer", "Type": "Ice", "Freq": "EOT", "AC": "4", "DB": "10", "DType": "Physical", "Range": "Melee, 1 Target", "Effects": "The user\u2019s Speed is lowered by 1 Combat Stage.", "Contest Type": "Cool", "Contest Effect": "Good Show"}}

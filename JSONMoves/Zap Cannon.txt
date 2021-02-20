@@ -1,0 +1,1 @@
+{"Move1": {"Name": "Zap Cannon", "Type": "Electric", "Freq": "At-Will", "AC": "9", "DB": "12", "DType": "Special", "Range": "12, 1 Target", "Effects": "Zap Cannon Paralyzes the target. Zap Cannon ignores the target\u2019s Evasion if there are no other combatants or Rough or Blocking Terrain within 2 meters of the target.", "Contest Type": "Cool", "Contest Effect": "Incentives"}}

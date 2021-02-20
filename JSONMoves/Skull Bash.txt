@@ -1,0 +1,1 @@
+{"Move1": {"Name": "Skull Bash", "Type": "Normal", "Freq": "Scene x2", "AC": "2", "DB": "13", "DType": "Physical", "Range": "Melee, 1 Target, Dash, Push, Set-Up", "Set-Up Effect": "The use gains +1 Defense CS.", "Resolution Effect": "The user may attack with Skull Bash. The target is pushed 3 meters.", "Contest Type": "Tough", "Contest Effect": "Special Attention"}}

@@ -1,0 +1,1 @@
+{"Move1": {"Name": "Magic Powder", "Type": "Psychic", "Freq": "Daily", "AC": "2", "DType": "Status", "Range": "5, 1 Target", "Effects": "The target gains the Psychic Type in addition to its other Types for 5 turns.", "Contest Type": "Smart", "Contest Effect": "Safe Option"}}

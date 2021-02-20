@@ -1,0 +1,1 @@
+{"Move1": {"Dragon Moves": "", "Name": "Breaking Swipe", "Type": "Dragon", "Freq": "EOT", "AC": "2", "DB": "6", "DType": "Physical", "Range": "Close Blast 2", "Effects": "The target\u2019s Attack is lowered 1 CS.", "Contest Type": "Tough", "Contest Effect": "Desperation"}}

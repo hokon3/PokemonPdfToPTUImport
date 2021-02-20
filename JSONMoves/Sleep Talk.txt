@@ -1,0 +1,1 @@
+{"Move1": {"Name": "Sleep Talk", "Type": "Normal", "Freq": "Scene", "AC": "None", "DType": "Status", "Range": "Self", "Effects": "Select another of the user\u2019s Moves at random; this turn, the user may Shift and use that Move despite being Asleep. Sleep Talk can be only be used by Sleeping targets.", "Contest Type": "Cute", "Contest Effect": "Steady Performance"}}

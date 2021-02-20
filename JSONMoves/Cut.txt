@@ -1,0 +1,1 @@
+{"Move1": {"Name": "Cut", "Type": "Normal", "Freq": "At-Will", "AC": "3", "DB": "5", "DType": "Physical", "Range": "Melee, Pass", "Effects": "Cut ignores up to 5 Damage Reduction (Defenses are not Damage Reduction).", "Contest Type": "Cool", "Contest Effect": "Steady Performance"}}
