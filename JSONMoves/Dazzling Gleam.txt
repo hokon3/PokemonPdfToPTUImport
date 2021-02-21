@@ -1,1 +1,1 @@
-{"Move1": {"Name": "Dazzling Gleam", "Type": "Fairy", "Freq": "EOT", "AC": "2", "DB": "8", "DType": "Special", "Range": "Cone 2", "Contest Type": "Cute", "Contest Effect": "Exhausting Act"}}
+{"Move1": {"Name": "Dazzling Gleam", "Type": "Fairy", "Freq": "EOT", "AC": "2", "DB": "8", "DType": "Special", "Range": "Cone 2", "Contest Effect": "Cute", "Contest Type": "Exhausting Act"}}

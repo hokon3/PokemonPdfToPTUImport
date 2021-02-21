@@ -1,1 +1,1 @@
-{"Move1": {"Name": "Baby-Doll Eyes", "Type": "Fairy", "Freq": "EOT", "AC": "2", "DType": "Status", "Range": "4, 1 Target, Priority, Social", "Effects": "The target\u2019s Attack is lowered 1 Combat Stage.", "Contest Type": "Cute", "Contest Effect": "Excitement"}}
+{"Move1": {"Name": "Baby-Doll Eyes", "Type": "Fairy", "Freq": "EOT", "AC": "2", "DType": "Status", "Range": "4, 1 Target, Priority, Social", "Effects": "The target\u2019s Attack is lowered 1 Combat Stage.", "Contest Effect": "Cute", "Contest Type": "Excitement"}}

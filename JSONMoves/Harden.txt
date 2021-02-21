@@ -1,1 +1,1 @@
-{"Move1": {"Name": "Harden", "Type": "Normal", "Freq": "At-Will", "AC": "None", "DType": "Status", "Range": "Self", "Effects": "Raise the user\u2019s Defense 1 Combat Stage.", "Contest Type": "Tough", "Contest Effect": "Sabotage"}}
+{"Move1": {"Name": "Harden", "Type": "Normal", "Freq": "At-Will", "AC": "None", "DType": "Status", "Range": "Self", "Effects": "Raise the user\u2019s Defense 1 Combat Stage.", "Contest Effect": "Tough", "Contest Type": "Sabotage"}}

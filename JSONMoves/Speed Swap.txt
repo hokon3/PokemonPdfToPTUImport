@@ -1,1 +1,1 @@
-{"Move1": {"Name": "Speed Swap", "Type": "Psychic", "Freq": "Scene", "AC": "2", "DType": "Status", "Range": "Melee, 1 Target", "Effects": "The user and the target trade Initiative values.", "Contest Type": "Cute", "Contest Effect": "Inversed Appeal"}}
+{"Move1": {"Name": "Speed Swap", "Type": "Psychic", "Freq": "Scene", "AC": "2", "DType": "Status", "Range": "Melee, 1 Target", "Effects": "The user and the target trade Initiative values.", "Contest Effect": "Cute", "Contest Type": "Inversed Appeal"}}

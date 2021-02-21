@@ -1,1 +1,1 @@
-{"Move1": {"Name": "Glare", "Type": "Normal", "Freq": "Scene x2", "AC": "2", "DType": "Status", "Range": "4, 1 Target, Social", "Effects": "Glare Paralyzes the target.", "Contest Type": "Tough", "Contest Effect": "Excitement"}}
+{"Move1": {"Name": "Glare", "Type": "Normal", "Freq": "Scene x2", "AC": "2", "DType": "Status", "Range": "4, 1 Target, Social", "Effects": "Glare Paralyzes the target.", "Contest Effect": "Tough", "Contest Type": "Excitement"}}

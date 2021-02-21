@@ -1,1 +1,1 @@
-{"Move1": {"Name": "Mirror Shot", "Type": "Steel", "Freq": "EOT", "AC": "5", "DB": "7", "DType": "Special", "Range": "6, Ranged Blast 2", "Effects": "All Legal Targets have their Accuracy lowered by -2 on 16+.", "Contest Type": "Cute", "Contest Effect": "Exhausting Act"}}
+{"Move1": {"Name": "Mirror Shot", "Type": "Steel", "Freq": "EOT", "AC": "5", "DB": "7", "DType": "Special", "Range": "6, Ranged Blast 2", "Effects": "All Legal Targets have their Accuracy lowered by -2 on 16+.", "Contest Effect": "Cute", "Contest Type": "Exhausting Act"}}

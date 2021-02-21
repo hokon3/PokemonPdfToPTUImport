@@ -1,1 +1,1 @@
-{"Move1": {"Special": "Grants Burrow +3", "Name": "Drill Run", "Type": "Ground", "Freq": "At-Will", "AC": "3", "DB": "8", "DType": "Physical", "Range": "Melee, 1 Target", "Effects": "Drill Run is a Critical Hit on 18+.", "Contest Type": "Cool", "Contest Effect": "Steady Performance"}}
+{"Move1": {"Special": "Grants Burrow +3", "Name": "Drill Run", "Type": "Ground", "Freq": "At-Will", "AC": "3", "DB": "8", "DType": "Physical", "Range": "Melee, 1 Target", "Effects": "Drill Run is a Critical Hit on 18+.", "Contest Effect": "Cool", "Contest Type": "Steady Performance"}}

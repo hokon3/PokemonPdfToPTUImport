@@ -1,1 +1,1 @@
-{"Move1": {"Name": "Fury Attack", "Type": "Normal", "Freq": "At-Will", "AC": "4", "DB": "2", "DType": "Physical", "Range": "Melee, 1 Target, Five Strike", "Contest Type": "Cool", "Contest Effect": "Reliable"}}
+{"Move1": {"Name": "Fury Attack", "Type": "Normal", "Freq": "At-Will", "AC": "4", "DB": "2", "DType": "Physical", "Range": "Melee, 1 Target, Five Strike", "Contest Effect": "Cool", "Contest Type": "Reliable"}}

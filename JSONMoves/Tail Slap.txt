@@ -1,1 +1,1 @@
-{"Move1": {"Name": "Tail Slap", "Type": "Normal", "Freq": "EOT", "AC": "4", "DB": "3", "DType": "Physical", "Range": "Melee, 1 Target, Five Strike", "Contest Type": "Cute", "Contest Effect": "Reliable"}}
+{"Move1": {"Name": "Tail Slap", "Type": "Normal", "Freq": "EOT", "AC": "4", "DB": "3", "DType": "Physical", "Range": "Melee, 1 Target, Five Strike", "Contest Effect": "Cute", "Contest Type": "Reliable"}}

@@ -1,1 +1,1 @@
-{"Move1": {"Name": "Hone Claws", "Type": "Dark", "Freq": "At-Will", "AC": "None", "DType": "Status", "Range": "Self", "Effects": "The user\u2019s Accuracy is raised by +1, and the user gains +1 Attack Combat Stage.", "Contest Type": "Cool", "Contest Effect": "Get Ready"}}
+{"Move1": {"Name": "Hone Claws", "Type": "Dark", "Freq": "At-Will", "AC": "None", "DType": "Status", "Range": "Self", "Effects": "The user\u2019s Accuracy is raised by +1, and the user gains +1 Attack Combat Stage.", "Contest Effect": "Cool", "Contest Type": "Get Ready"}}

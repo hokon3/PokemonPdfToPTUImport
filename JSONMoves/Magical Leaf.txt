@@ -1,1 +1,1 @@
-{"Move1": {"Name": "Magical Leaf", "Type": "Grass", "Freq": "EOT", "AC": "None", "DB": "6", "DType": "Special", "Range": "8, 1 Target", "Effects": "Magical Leaf cannot miss.", "Contest Type": "Beauty", "Contest Effect": "Exhausting Act"}}
+{"Move1": {"Name": "Magical Leaf", "Type": "Grass", "Freq": "EOT", "AC": "None", "DB": "6", "DType": "Special", "Range": "8, 1 Target", "Effects": "Magical Leaf cannot miss.", "Contest Effect": "Beauty", "Contest Type": "Exhausting Act"}}

@@ -1,1 +1,1 @@
-{"Move1": {"Name": "Peck", "Type": "Flying", "Freq": "At-Will", "AC": "2", "DB": "4", "DType": "Physical", "Range": "Melee, 1 Target", "Contest Type": "Cool", "Contest Effect": "Steady Performance"}}
+{"Move1": {"Name": "Peck", "Type": "Flying", "Freq": "At-Will", "AC": "2", "DB": "4", "DType": "Physical", "Range": "Melee, 1 Target", "Contest Effect": "Cool", "Contest Type": "Steady Performance"}}

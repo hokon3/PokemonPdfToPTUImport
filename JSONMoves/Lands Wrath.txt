@@ -1,1 +1,1 @@
-{"Move1": {"Name": "Land\u2019s Wrath", "Type": "Ground", "Freq": "Scene x2", "AC": "2", "DB": "9", "DType": "Physical", "Range": "Burst 5, Friendly, Groundsource", "Contest Type": "Tough", "Contest Effect": "Big Show"}}
+{"Move1": {"Name": "Land\u2019s Wrath", "Type": "Ground", "Freq": "Scene x2", "AC": "2", "DB": "9", "DType": "Physical", "Range": "Burst 5, Friendly, Groundsource", "Contest Effect": "Tough", "Contest Type": "Big Show"}}

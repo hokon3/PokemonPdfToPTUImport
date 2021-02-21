@@ -1,1 +1,1 @@
-{"Move1": {"Name": "Frenzy Plant", "Type": "Grass", "Freq": "Daily x2", "AC": "4", "DB": "15", "DType": "Special", "Range": "3, 5 Targets, Smite, Exhaust", "Contest Type": "Cool", "Contest Effect": "Seen Nothing Yet"}}
+{"Move1": {"Name": "Frenzy Plant", "Type": "Grass", "Freq": "Daily x2", "AC": "4", "DB": "15", "DType": "Special", "Range": "3, 5 Targets, Smite, Exhaust", "Contest Effect": "Cool", "Contest Type": "Seen Nothing Yet"}}

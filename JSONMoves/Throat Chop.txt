@@ -1,1 +1,1 @@
-{"Move1": {"Name": "Throat Chop", "Type": "Dark", "Freq": "EOT", "AC": "2", "DB": "8", "DType": "Physical", "Range": "Melee, 1 Target", "Effects": "The target cannot use Moves with the Sonic keyword for the next two turns.", "Contest Type": "Tough", "Contest Effect": "Unsettling"}}
+{"Move1": {"Name": "Throat Chop", "Type": "Dark", "Freq": "EOT", "AC": "2", "DB": "8", "DType": "Physical", "Range": "Melee, 1 Target", "Effects": "The target cannot use Moves with the Sonic keyword for the next two turns.", "Contest Effect": "Tough", "Contest Type": "Unsettling"}}

@@ -1,1 +1,1 @@
-{"Move1": {"Name": "Psycho Cut", "Type": "Psychic", "Freq": "EOT", "AC": "2", "DB": "7", "DType": "Physical", "Range": "6, 1 Target", "Effects": "Psycho Cut is a Critical Hit on 18+.", "Contest Type": "Cool", "Contest Effect": "Exhausting Act"}}
+{"Move1": {"Name": "Psycho Cut", "Type": "Psychic", "Freq": "EOT", "AC": "2", "DB": "7", "DType": "Physical", "Range": "6, 1 Target", "Effects": "Psycho Cut is a Critical Hit on 18+.", "Contest Effect": "Cool", "Contest Type": "Exhausting Act"}}

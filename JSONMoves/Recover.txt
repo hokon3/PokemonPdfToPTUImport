@@ -1,1 +1,1 @@
-{"Move1": {"Name": "Recover", "Type": "Normal", "Freq": "Daily x2", "AC": "None", "DType": "Status", "Range": "Self, Healing", "Effects": "The user regains Hit Points equal to half of its full Hit Point value.", "Contest Type": "Smart", "Contest Effect": "Reflective Appeal"}}
+{"Move1": {"Name": "Recover", "Type": "Normal", "Freq": "Daily x2", "AC": "None", "DType": "Status", "Range": "Self, Healing", "Effects": "The user regains Hit Points equal to half of its full Hit Point value.", "Contest Effect": "Smart", "Contest Type": "Reflective Appeal"}}

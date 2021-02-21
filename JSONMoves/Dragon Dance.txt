@@ -1,1 +1,1 @@
-{"Move1": {"Name": "Dragon Dance", "Type": "Dragon", "Freq": "EOT", "AC": "None", "DType": "Status", "Range": "Self, Dance", "Effects": "Raise the user\u2019s Attack 1 Combat Stage and raise the user\u2019s Speed 1 Combat Stage.", "Contest Type": "Cool", "Contest Effect": "Get Ready"}}
+{"Move1": {"Name": "Dragon Dance", "Type": "Dragon", "Freq": "EOT", "AC": "None", "DType": "Status", "Range": "Self, Dance", "Effects": "Raise the user\u2019s Attack 1 Combat Stage and raise the user\u2019s Speed 1 Combat Stage.", "Contest Effect": "Cool", "Contest Type": "Get Ready"}}

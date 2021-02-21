@@ -1,1 +1,1 @@
-{"Move1": {"Name": "Trick-or-Treat", "Type": "Ghost", "Freq": "Daily", "AC": "2", "DType": "Status", "Range": "6, 1 Target", "Effects": "The target gains the Ghost Type in addition to its other Types for 5 turns.", "Contest Type": "Cute", "Contest Effect": "Good Show"}}
+{"Move1": {"Name": "Trick-or-Treat", "Type": "Ghost", "Freq": "Daily", "AC": "2", "DType": "Status", "Range": "6, 1 Target", "Effects": "The target gains the Ghost Type in addition to its other Types for 5 turns.", "Contest Effect": "Cute", "Contest Type": "Good Show"}}

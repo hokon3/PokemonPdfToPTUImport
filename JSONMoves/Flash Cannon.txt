@@ -1,1 +1,1 @@
-{"Move1": {"Name": "Flash Cannon", "Type": "Steel", "Freq": "EOT", "AC": "2", "DB": "8", "DType": "Special", "Range": "6, 1 Target", "Effects": "Flash Cannon lowers the target\u2019s Special Defense by 1 Combat Stage on 17+.", "Contest Type": "Smart", "Contest Effect": "Exhausting Act"}}
+{"Move1": {"Name": "Flash Cannon", "Type": "Steel", "Freq": "EOT", "AC": "2", "DB": "8", "DType": "Special", "Range": "6, 1 Target", "Effects": "Flash Cannon lowers the target\u2019s Special Defense by 1 Combat Stage on 17+.", "Contest Effect": "Smart", "Contest Type": "Exhausting Act"}}

@@ -1,1 +1,1 @@
-{"Move1": {"Name": "Sacred Sword", "Type": "Fighting", "Freq": "EOT", "AC": "None", "DB": "8", "DType": "Physical", "Range": "Melee, 1 Target", "Effects": "Sacred Sword cannot miss.", "Contest Type": "Cool", "Contest Effect": "Steady Performance"}}
+{"Move1": {"Name": "Sacred Sword", "Type": "Fighting", "Freq": "EOT", "AC": "None", "DB": "8", "DType": "Physical", "Range": "Melee, 1 Target", "Effects": "Sacred Sword cannot miss.", "Contest Effect": "Cool", "Contest Type": "Steady Performance"}}

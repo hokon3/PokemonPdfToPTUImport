@@ -1,1 +1,1 @@
-{"Move1": {"Name": "Laser Focus", "Type": "Normal", "Freq": "Scene x2", "AC": "None", "DType": "Status", "Range": "Self", "Effects": "The next successful damaging attack made by the user is automatically a Critical Hit.", "Contest Type": "Smart", "Contest Effect": "Get Ready"}}
+{"Move1": {"Name": "Laser Focus", "Type": "Normal", "Freq": "Scene x2", "AC": "None", "DType": "Status", "Range": "Self", "Effects": "The next successful damaging attack made by the user is automatically a Critical Hit.", "Contest Effect": "Smart", "Contest Type": "Get Ready"}}

@@ -1,1 +1,1 @@
-{"Move1": {"Name": "Water Pulse", "Type": "Water", "Freq": "At-Will", "AC": "2", "DB": "6", "DType": "Special", "Range": "8, 1 Target, Aura", "Effects": "Water Pulse Confuses the target on 17+.", "Contest Type": "Beauty", "Contest Effect": "Exhausting Act"}}
+{"Move1": {"Name": "Water Pulse", "Type": "Water", "Freq": "At-Will", "AC": "2", "DB": "6", "DType": "Special", "Range": "8, 1 Target, Aura", "Effects": "Water Pulse Confuses the target on 17+.", "Contest Effect": "Beauty", "Contest Type": "Exhausting Act"}}

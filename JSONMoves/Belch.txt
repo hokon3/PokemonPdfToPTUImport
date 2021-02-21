@@ -1,1 +1,1 @@
-{"Move1": {"Name": "Belch", "Type": "Poison", "Freq": "Scene x2", "AC": "4", "DB": "12", "DType": "Special", "Range": "Cone 2", "Effects": "Belch cannot be used if the user has not traded in a Digestion Buff during this Scene.", "Contest Type": "Tough", "Contest Effect": "Desperation"}}
+{"Move1": {"Name": "Belch", "Type": "Poison", "Freq": "Scene x2", "AC": "4", "DB": "12", "DType": "Special", "Range": "Cone 2", "Effects": "Belch cannot be used if the user has not traded in a Digestion Buff during this Scene.", "Contest Effect": "Tough", "Contest Type": "Desperation"}}

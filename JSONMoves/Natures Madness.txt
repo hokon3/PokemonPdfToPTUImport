@@ -1,1 +1,1 @@
-{"Move1": {"Name": "Nature\u2019s Madness", "Type": "Fairy", "Freq": "Scene", "AC": "4", "DType": "Special", "Range": "4, 1 Target", "Effects": "The target loses 1/2 of their current Hit Points.", "Contest Type": "Tough", "Contest Effect": "Steady Performance"}}
+{"Move1": {"Name": "Nature\u2019s Madness", "Type": "Fairy", "Freq": "Scene", "AC": "4", "DType": "Special", "Range": "4, 1 Target", "Effects": "The target loses 1/2 of their current Hit Points.", "Contest Effect": "Tough", "Contest Type": "Steady Performance"}}

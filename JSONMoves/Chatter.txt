@@ -1,1 +1,1 @@
-{"Move1": {"Name": "Chatter", "Type": "Flying", "Freq": "At-Will", "AC": "2", "DB": "7", "DType": "Special", "Range": "4, 1 Target, Sonic", "Effects": "Chatter confuses the target on 16+.", "Contest Type": "Smart", "Contest Effect": "Catching Up"}}
+{"Move1": {"Name": "Chatter", "Type": "Flying", "Freq": "At-Will", "AC": "2", "DB": "7", "DType": "Special", "Range": "4, 1 Target, Sonic", "Effects": "Chatter confuses the target on 16+.", "Contest Effect": "Smart", "Contest Type": "Catching Up"}}

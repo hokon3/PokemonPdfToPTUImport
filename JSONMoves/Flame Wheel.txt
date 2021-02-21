@@ -1,1 +1,1 @@
-{"Move1": {"Name": "Flame Wheel", "Type": "Fire", "Freq": "At-Will", "AC": "2", "DB": "6", "DType": "Physical", "Range": "Melee, 1 Target. Dash", "Effects": "Flame Wheel Burns the target on 19+.", "Contest Type": "Beauty", "Contest Effect": "Reliable"}}
+{"Move1": {"Name": "Flame Wheel", "Type": "Fire", "Freq": "At-Will", "AC": "2", "DB": "6", "DType": "Physical", "Range": "Melee, 1 Target. Dash", "Effects": "Flame Wheel Burns the target on 19+.", "Contest Effect": "Beauty", "Contest Type": "Reliable"}}

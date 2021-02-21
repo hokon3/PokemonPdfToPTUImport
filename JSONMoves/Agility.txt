@@ -1,1 +1,1 @@
-{"Move1": {"Psychic Moves": "", "Name": "Agility", "Type": "Psychic", "Freq": "EOT", "AC": "None", "DType": "Status", "Range": "Self", "Effects": "Raise the user\u2019s Speed 2 Combat Stages.", "Contest Type": "Cool", "Contest Effect": "Saving Grace"}}
+{"Move1": {"Psychic Moves": "", "Name": "Agility", "Type": "Psychic", "Freq": "EOT", "AC": "None", "DType": "Status", "Range": "Self", "Effects": "Raise the user\u2019s Speed 2 Combat Stages.", "Contest Effect": "Cool", "Contest Type": "Saving Grace"}}

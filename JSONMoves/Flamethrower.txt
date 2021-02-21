@@ -1,1 +1,1 @@
-{"Move1": {"Name": "Flamethrower", "Type": "Fire", "Freq": "EOT", "AC": "2", "DB": "9", "DType": "Special", "Range": "4, 1 Target", "Effects": "Flamethrower Burns the target on 19+.", "Contest Type": "Beauty", "Contest Effect": "Exhausting Act"}}
+{"Move1": {"Name": "Flamethrower", "Type": "Fire", "Freq": "EOT", "AC": "2", "DB": "9", "DType": "Special", "Range": "4, 1 Target", "Effects": "Flamethrower Burns the target on 19+.", "Contest Effect": "Beauty", "Contest Type": "Exhausting Act"}}

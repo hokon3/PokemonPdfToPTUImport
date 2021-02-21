@@ -1,1 +1,1 @@
-{"Move1": {"Name": "Leaf Blade", "Type": "Grass", "Freq": "EOT", "AC": "2", "DB": "9", "DType": "Physical", "Range": "Melee, Pass", "Effects": "Leaf Blade is a Critical Hit on 18+.", "Contest Type": "Cool", "Contest Effect": "Exhausting Act"}}
+{"Move1": {"Name": "Leaf Blade", "Type": "Grass", "Freq": "EOT", "AC": "2", "DB": "9", "DType": "Physical", "Range": "Melee, Pass", "Effects": "Leaf Blade is a Critical Hit on 18+.", "Contest Effect": "Cool", "Contest Type": "Exhausting Act"}}

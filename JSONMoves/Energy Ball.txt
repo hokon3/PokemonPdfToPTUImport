@@ -1,1 +1,1 @@
-{"Move1": {"Name": "Energy Ball", "Type": "Grass", "Freq": "EOT", "AC": "2", "DB": "9", "DType": "Special", "Range": "4, 1 Target", "Effects": "Energy Ball lowers the foe\u2019s Special Defense 1 Combat Stage on 17+.", "Contest Type": "Beauty", "Contest Effect": "Exhausting Act"}}
+{"Move1": {"Name": "Energy Ball", "Type": "Grass", "Freq": "EOT", "AC": "2", "DB": "9", "DType": "Special", "Range": "4, 1 Target", "Effects": "Energy Ball lowers the foe\u2019s Special Defense 1 Combat Stage on 17+.", "Contest Effect": "Beauty", "Contest Type": "Exhausting Act"}}

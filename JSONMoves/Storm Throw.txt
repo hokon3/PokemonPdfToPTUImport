@@ -1,1 +1,1 @@
-{"Move1": {"Name": "Storm Throw", "Type": "Fighting", "Freq": "EOT", "AC": "2", "DB": "6", "DType": "Physical", "Range": "Melee, 1 Target", "Effects": "If Storm Throw hits, it is a Critical Hit.", "Contest Type": "Cool", "Contest Effect": "Steady Performance"}}
+{"Move1": {"Name": "Storm Throw", "Type": "Fighting", "Freq": "EOT", "AC": "2", "DB": "6", "DType": "Physical", "Range": "Melee, 1 Target", "Effects": "If Storm Throw hits, it is a Critical Hit.", "Contest Effect": "Cool", "Contest Type": "Steady Performance"}}

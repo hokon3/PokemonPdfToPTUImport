@@ -1,1 +1,1 @@
-{"Move1": {"Name": "Iron Tail", "Type": "Steel", "Freq": "Scene x2", "AC": "6", "DB": "10", "DType": "Physical", "Range": "Melee, 1 Target, Smite", "Effects": "Iron Tail lowers the target\u2019s Defense 1 Combat Stage on 15+.", "Contest Type": "Cool", "Contest Effect": "Desperation"}}
+{"Move1": {"Name": "Iron Tail", "Type": "Steel", "Freq": "Scene x2", "AC": "6", "DB": "10", "DType": "Physical", "Range": "Melee, 1 Target, Smite", "Effects": "Iron Tail lowers the target\u2019s Defense 1 Combat Stage on 15+.", "Contest Effect": "Cool", "Contest Type": "Desperation"}}

@@ -1,1 +1,1 @@
-{"Move1": {"Name": "Smog", "Type": "Poison", "Freq": "At-Will", "AC": "7", "DB": "3", "DType": "Special", "Range": "Line 2", "Effects": "Smog Poisons the target on an Even-Numbered Roll.", "Contest Type": "Tough", "Contest Effect": "Steady Performance"}}
+{"Move1": {"Name": "Smog", "Type": "Poison", "Freq": "At-Will", "AC": "7", "DB": "3", "DType": "Special", "Range": "Line 2", "Effects": "Smog Poisons the target on an Even-Numbered Roll.", "Contest Effect": "Tough", "Contest Type": "Steady Performance"}}

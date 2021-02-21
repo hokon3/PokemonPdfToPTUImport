@@ -1,1 +1,1 @@
-{"Move1": {"Name": "Taunt", "Type": "Dark", "Freq": "EOT", "AC": "3", "DType": "Status", "Range": "6, 1 Target, Social", "Effects": "The target becomes Enraged.", "Contest Type": "Smart", "Contest Effect": "Inversed Appeal"}}
+{"Move1": {"Name": "Taunt", "Type": "Dark", "Freq": "EOT", "AC": "3", "DType": "Status", "Range": "6, 1 Target, Social", "Effects": "The target becomes Enraged.", "Contest Effect": "Smart", "Contest Type": "Inversed Appeal"}}

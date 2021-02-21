@@ -1,1 +1,1 @@
-{"Move1": {"Name": "Sand Attack", "Type": "Ground", "Freq": "EOT", "AC": "2", "DType": "Status", "Range": "2, 1 Target", "Effects": "The target is Blinded until the end of their next turn.", "Contest Type": "Cute", "Contest Effect": "Excitement"}}
+{"Move1": {"Name": "Sand Attack", "Type": "Ground", "Freq": "EOT", "AC": "2", "DType": "Status", "Range": "2, 1 Target", "Effects": "The target is Blinded until the end of their next turn.", "Contest Effect": "Cute", "Contest Type": "Excitement"}}

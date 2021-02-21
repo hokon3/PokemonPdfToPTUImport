@@ -1,1 +1,1 @@
-{"Move1": {"Name": "Tail Whip", "Type": "Normal", "Freq": "At-Will", "AC": "2", "DType": "Status", "Range": "Burst 1, Friendly", "Effects": "All legal targets have their Defense lowered by 1 Combat Stage.", "Contest Type": "Cute", "Contest Effect": "Excitement"}}
+{"Move1": {"Name": "Tail Whip", "Type": "Normal", "Freq": "At-Will", "AC": "2", "DType": "Status", "Range": "Burst 1, Friendly", "Effects": "All legal targets have their Defense lowered by 1 Combat Stage.", "Contest Effect": "Cute", "Contest Type": "Excitement"}}

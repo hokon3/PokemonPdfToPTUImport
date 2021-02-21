@@ -1,1 +1,1 @@
-{"Move1": {"Name": "Heart Stamp", "Type": "Psychic", "Freq": "EOT", "AC": "2", "DB": "6", "DType": "Physical", "Range": "Melee, 1 Target", "Effects": "Heart Stamp Flinches the target on 15+.", "Contest Type": "Cute", "Contest Effect": "Steady Performance"}}
+{"Move1": {"Name": "Heart Stamp", "Type": "Psychic", "Freq": "EOT", "AC": "2", "DB": "6", "DType": "Physical", "Range": "Melee, 1 Target", "Effects": "Heart Stamp Flinches the target on 15+.", "Contest Effect": "Cute", "Contest Type": "Steady Performance"}}

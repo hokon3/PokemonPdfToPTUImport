@@ -1,1 +1,1 @@
-{"Move1": {"Name": "Rock Throw", "Type": "Rock", "Freq": "At-Will", "AC": "4", "DB": "5", "DType": "Physical", "Range": "6, 1 Target", "Contest Type": "Tough", "Contest Effect": "Steady Performance"}}
+{"Move1": {"Name": "Rock Throw", "Type": "Rock", "Freq": "At-Will", "AC": "4", "DB": "5", "DType": "Physical", "Range": "6, 1 Target", "Contest Effect": "Tough", "Contest Type": "Steady Performance"}}

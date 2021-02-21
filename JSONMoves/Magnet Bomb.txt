@@ -1,1 +1,1 @@
-{"Move1": {"Name": "Magnet Bomb", "Type": "Steel", "Freq": "EOT", "AC": "None", "DB": "6", "DType": "Physical", "Range": "8, 1 Target", "Effects": "Magnet Bomb cannot miss.", "Contest Type": "Cool", "Contest Effect": "Steady Performance"}}
+{"Move1": {"Name": "Magnet Bomb", "Type": "Steel", "Freq": "EOT", "AC": "None", "DB": "6", "DType": "Physical", "Range": "8, 1 Target", "Effects": "Magnet Bomb cannot miss.", "Contest Effect": "Cool", "Contest Type": "Steady Performance"}}

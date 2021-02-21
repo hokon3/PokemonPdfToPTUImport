@@ -1,1 +1,1 @@
-{"Move1": {"Name": "Blue Flare", "Type": "Fire", "Freq": "Scene x2", "AC": "5", "DB": "13", "DType": "Special", "Range": "10, 1 Target, Smite", "Effects": "Blue Flare Burns the target on 17+.", "Contest Type": "Beauty", "Contest Effect": "Steady Performance"}}
+{"Move1": {"Name": "Blue Flare", "Type": "Fire", "Freq": "Scene x2", "AC": "5", "DB": "13", "DType": "Special", "Range": "10, 1 Target, Smite", "Effects": "Blue Flare Burns the target on 17+.", "Contest Effect": "Beauty", "Contest Type": "Steady Performance"}}

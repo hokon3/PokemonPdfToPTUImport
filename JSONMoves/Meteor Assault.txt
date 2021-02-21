@@ -1,1 +1,1 @@
-{"Move1": {"Name": "Meteor Assault", "Type": "Fighting", "Freq": "Daily x2", "AC": "2", "DB": "15", "DType": "Physical", "Range": "Burst 1, Smite, Exhaust", "Contest Type": "Tough", "Contest Effect": "Exhausting Act"}}
+{"Move1": {"Name": "Meteor Assault", "Type": "Fighting", "Freq": "Daily x2", "AC": "2", "DB": "15", "DType": "Physical", "Range": "Burst 1, Smite, Exhaust", "Contest Effect": "Tough", "Contest Type": "Exhausting Act"}}

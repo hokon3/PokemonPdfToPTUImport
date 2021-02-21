@@ -1,1 +1,1 @@
-{"Move1": {"Name": "Flare Blitz", "Type": "Fire", "Freq": "Scene x2", "AC": "2", "DB": "12", "DType": "Physical", "Range": "Melee, 1 Target, Dash, Recoil 1/3", "Effects": "Flare Blitz Burns the target on 19+.", "Contest Type": "Smart", "Contest Effect": "Seen Nothing Yet"}}
+{"Move1": {"Name": "Flare Blitz", "Type": "Fire", "Freq": "Scene x2", "AC": "2", "DB": "12", "DType": "Physical", "Range": "Melee, 1 Target, Dash, Recoil 1/3", "Effects": "Flare Blitz Burns the target on 19+.", "Contest Effect": "Smart", "Contest Type": "Seen Nothing Yet"}}

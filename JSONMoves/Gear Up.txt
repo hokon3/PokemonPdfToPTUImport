@@ -1,1 +1,1 @@
-{"Move1": {"Name": "Gear Up", "Type": "Steel", "Freq": "Scene x2", "DType": "Status", "Range": "Burst 4", "Effects": "All targets that are Steel-Typed receive +1 Attack and Special Attack Combat Stages", "Contest Type": "Smart", "Contest Effect": "Get Ready"}}
+{"Move1": {"Name": "Gear Up", "Type": "Steel", "Freq": "Scene x2", "DType": "Status", "Range": "Burst 4", "Effects": "All targets that are Steel-Typed receive +1 Attack and Special Attack Combat Stages", "Contest Effect": "Smart", "Contest Type": "Get Ready"}}

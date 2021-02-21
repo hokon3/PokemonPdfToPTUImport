@@ -1,1 +1,1 @@
-{"Move1": {"Name": "False Surrender", "Type": "Dark", "Freq": "EOT", "AC": "None", "DB": "8", "DType": "Physical", "Range": "Melee, 1 Target", "Effects": "False Surrender cannot miss.", "Contest Type": "Smart", "Contest Effect": "Reliable"}}
+{"Move1": {"Name": "False Surrender", "Type": "Dark", "Freq": "EOT", "AC": "None", "DB": "8", "DType": "Physical", "Range": "Melee, 1 Target", "Effects": "False Surrender cannot miss.", "Contest Effect": "Smart", "Contest Type": "Reliable"}}

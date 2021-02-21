@@ -1,1 +1,1 @@
-{"Move1": {"Name": "Hydro Pump", "Type": "Water", "Freq": "Scene x2", "AC": "4", "DB": "11", "DType": "Special", "Range": "6, 1 Target, Push", "Effects": "The target is pushed away from the user 3 meters.", "Contest Type": "Beauty", "Contest Effect": "Exhausting Act"}}
+{"Move1": {"Name": "Hydro Pump", "Type": "Water", "Freq": "Scene x2", "AC": "4", "DB": "11", "DType": "Special", "Range": "6, 1 Target, Push", "Effects": "The target is pushed away from the user 3 meters.", "Contest Effect": "Beauty", "Contest Type": "Exhausting Act"}}

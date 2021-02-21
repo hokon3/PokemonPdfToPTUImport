@@ -1,1 +1,1 @@
-{"Move1": {"Name": "Dizzy Punch", "Type": "Normal", "Freq": "At-Will", "AC": "2", "DB": "7", "DType": "Physical", "Range": "Melee, 1 Target", "Effects": "Dizzy Punch Confuses the target on 17+", "Contest Type": "Cool", "Contest Effect": "Inversed Appeal"}}
+{"Move1": {"Name": "Dizzy Punch", "Type": "Normal", "Freq": "At-Will", "AC": "2", "DB": "7", "DType": "Physical", "Range": "Melee, 1 Target", "Effects": "Dizzy Punch Confuses the target on 17+", "Contest Effect": "Cool", "Contest Type": "Inversed Appeal"}}

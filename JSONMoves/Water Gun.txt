@@ -1,1 +1,1 @@
-{"Move1": {"Name": "Water Gun", "Type": "Water", "Freq": "At-Will", "AC": "2", "DB": "4", "DType": "Special", "Range": "4, 1 Target", "Contest Type": "Cute", "Contest Effect": "Steady Performance"}}
+{"Move1": {"Name": "Water Gun", "Type": "Water", "Freq": "At-Will", "AC": "2", "DB": "4", "DType": "Special", "Range": "4, 1 Target", "Contest Effect": "Cute", "Contest Type": "Steady Performance"}}

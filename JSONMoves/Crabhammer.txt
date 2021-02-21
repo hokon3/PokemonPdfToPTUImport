@@ -1,1 +1,1 @@
-{"Move1": {"Name": "Crabhammer", "Type": "Water", "Freq": "EOT", "AC": "4", "DB": "10", "DType": "Physical", "Range": "Melee, 1 Target", "Effects": "Crabhammer is a Critical Hit on 18+.", "Contest Type": "Tough", "Contest Effect": "Exhausting Act"}}
+{"Move1": {"Name": "Crabhammer", "Type": "Water", "Freq": "EOT", "AC": "4", "DB": "10", "DType": "Physical", "Range": "Melee, 1 Target", "Effects": "Crabhammer is a Critical Hit on 18+.", "Contest Effect": "Tough", "Contest Type": "Exhausting Act"}}

@@ -1,1 +1,1 @@
-{"Move1": {"Name": "Strange Steam", "Type": "Fairy", "Freq": "Scene x2", "AC": "3", "DB": "9", "DType": "Special", "Range": "Burst 1", "Effects": "The target is confused on 17+.", "Contest Type": "Beauty", "Contest Effect": "Good Show"}}
+{"Move1": {"Name": "Strange Steam", "Type": "Fairy", "Freq": "Scene x2", "AC": "3", "DB": "9", "DType": "Special", "Range": "Burst 1", "Effects": "The target is confused on 17+.", "Contest Effect": "Beauty", "Contest Type": "Good Show"}}

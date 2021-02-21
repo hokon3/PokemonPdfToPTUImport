@@ -26,7 +26,9 @@ translateKeyDict = {
     'Athl': 'Athletics',
     'Acro': 'Acrobatics',
     'Percep': 'Perception',
-    'Edu: Tech:': 'TechnologyEducation'
+    'Edu: Tech:': 'TechnologyEducation',
+    'Contest Effect': 'Contest Type',
+    'Contest Type': 'Contest Effect'
 }
 
 for page in movePdf:

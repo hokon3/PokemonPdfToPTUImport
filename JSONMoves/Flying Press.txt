@@ -1,1 +1,1 @@
-{"Move1": {"Name": "Flying Press", "Type": "Fighting", "Freq": "EOT", "AC": "3", "DB": "10", "DType": "Physical", "Range": "Melee, 1 Target, Dash", "Effects": "Flying Press may deal Flying Type damage if the user wishes.", "Contest Type": "Tough", "Contest Effect": "Big Show"}}
+{"Move1": {"Name": "Flying Press", "Type": "Fighting", "Freq": "EOT", "AC": "3", "DB": "10", "DType": "Physical", "Range": "Melee, 1 Target, Dash", "Effects": "Flying Press may deal Flying Type damage if the user wishes.", "Contest Effect": "Tough", "Contest Type": "Big Show"}}

@@ -1,1 +1,1 @@
-{"Move1": {"Name": "Feint Attack", "Type": "Dark", "Freq": "EOT", "AC": "None", "DB": "6", "DType": "Physical", "Range": "Melee, 1 Target", "Effects": "Feint Attack cannot miss.", "Contest Type": "Smart", "Contest Effect": "Desperation"}}
+{"Move1": {"Name": "Feint Attack", "Type": "Dark", "Freq": "EOT", "AC": "None", "DB": "6", "DType": "Physical", "Range": "Melee, 1 Target", "Effects": "Feint Attack cannot miss.", "Contest Effect": "Smart", "Contest Type": "Desperation"}}

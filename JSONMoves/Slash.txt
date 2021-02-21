@@ -1,1 +1,1 @@
-{"Move1": {"Name": "Slash", "Type": "Normal", "Freq": "EOT", "AC": "2", "DB": "7", "DType": "Physical", "Range": "Melee, Pass", "Effects": "Slash is a Critical Hit on 18+.", "Contest Type": "Cool", "Contest Effect": "Steady Performance"}}
+{"Move1": {"Name": "Slash", "Type": "Normal", "Freq": "EOT", "AC": "2", "DB": "7", "DType": "Physical", "Range": "Melee, Pass", "Effects": "Slash is a Critical Hit on 18+.", "Contest Effect": "Cool", "Contest Type": "Steady Performance"}}

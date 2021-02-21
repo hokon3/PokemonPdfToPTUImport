@@ -1,1 +1,1 @@
-{"Move1": {"Fire Moves": "", "Name": "Blast Burn", "Type": "Fire", "Freq": "Daily x2", "AC": "4", "DB": "15", "DType": "Special", "Range": "Close Blast 3, Smite, Exhaust", "Contest Type": "Beauty", "Contest Effect": "Seen Nothing Yet"}}
+{"Move1": {"Fire Moves": "", "Name": "Blast Burn", "Type": "Fire", "Freq": "Daily x2", "AC": "4", "DB": "15", "DType": "Special", "Range": "Close Blast 3, Smite, Exhaust", "Contest Effect": "Beauty", "Contest Type": "Seen Nothing Yet"}}

@@ -1,1 +1,1 @@
-{"Move1": {"Name": "Toxic", "Type": "Poison", "Freq": "Scene x2", "AC": "4", "DType": "Status", "Range": "4, 1 Target", "Effects": "The target is Badly Poisoned. If the user is Poison Type, Toxic cannot miss.", "Contest Type": "Smart", "Contest Effect": "Excitement"}}
+{"Move1": {"Name": "Toxic", "Type": "Poison", "Freq": "Scene x2", "AC": "4", "DType": "Status", "Range": "4, 1 Target", "Effects": "The target is Badly Poisoned. If the user is Poison Type, Toxic cannot miss.", "Contest Effect": "Smart", "Contest Type": "Excitement"}}

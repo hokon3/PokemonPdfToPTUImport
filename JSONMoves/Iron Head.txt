@@ -1,1 +1,1 @@
-{"Move1": {"Name": "Iron Head", "Type": "Steel", "Freq": "EOT", "AC": "2", "DB": "8", "DType": "Physical", "Range": "Melee, 1 Target, Dash", "Effects": "Iron Head Flinches the target on 15+.", "Contest Type": "Tough", "Contest Effect": "Desperation"}}
+{"Move1": {"Name": "Iron Head", "Type": "Steel", "Freq": "EOT", "AC": "2", "DB": "8", "DType": "Physical", "Range": "Melee, 1 Target, Dash", "Effects": "Iron Head Flinches the target on 15+.", "Contest Effect": "Tough", "Contest Type": "Desperation"}}

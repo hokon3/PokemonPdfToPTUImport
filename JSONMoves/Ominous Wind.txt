@@ -1,1 +1,1 @@
-{"Move1": {"Name": "Ominous Wind", "Type": "Ghost", "Freq": "EOT", "AC": "2", "DB": "6", "DType": "Special", "Range": "6, 1 Target, Spirit Surge", "Effects": "On 19+, the user has each of its stats raised by +1 Combat Stage.", "Contest Type": "Smart", "Contest Effect": "Get Ready"}}
+{"Move1": {"Name": "Ominous Wind", "Type": "Ghost", "Freq": "EOT", "AC": "2", "DB": "6", "DType": "Special", "Range": "6, 1 Target, Spirit Surge", "Effects": "On 19+, the user has each of its stats raised by +1 Combat Stage.", "Contest Effect": "Smart", "Contest Type": "Get Ready"}}

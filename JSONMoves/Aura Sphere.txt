@@ -1,1 +1,1 @@
-{"Move1": {"Name": "Aura Sphere", "Type": "Fighting", "Freq": "EOT", "AC": "None", "DB": "8", "DType": "Special", "Range": "8, 1 Target, Aura", "Effects": "Aura Sphere cannot miss.", "Contest Type": "Beauty", "Contest Effect": "Exhausting Act"}}
+{"Move1": {"Name": "Aura Sphere", "Type": "Fighting", "Freq": "EOT", "AC": "None", "DB": "8", "DType": "Special", "Range": "8, 1 Target, Aura", "Effects": "Aura Sphere cannot miss.", "Contest Effect": "Beauty", "Contest Type": "Exhausting Act"}}

@@ -1,1 +1,1 @@
-{"Move1": {"Name": "Stun Spore", "Type": "Grass", "Freq": "Scene x2", "AC": "6", "DType": "Status", "Range": "6, 1 Target, Powder", "Effects": "The target is Paralyzed.", "Contest Type": "Smart", "Contest Effect": "Excitement"}}
+{"Move1": {"Name": "Stun Spore", "Type": "Grass", "Freq": "Scene x2", "AC": "6", "DType": "Status", "Range": "6, 1 Target, Powder", "Effects": "The target is Paralyzed.", "Contest Effect": "Smart", "Contest Type": "Excitement"}}

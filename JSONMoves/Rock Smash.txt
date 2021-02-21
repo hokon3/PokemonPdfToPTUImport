@@ -1,1 +1,1 @@
-{"Move1": {"Name": "Rock Smash", "Type": "Fighting", "Freq": "At-Will", "AC": "2", "DB": "4", "DType": "Physical", "Range": "Melee, 1 Target", "Effects": "Rock Smash lowers the target\u2019s Defense 1 Combat Stage on 17+.", "Contest Type": "Tough", "Contest Effect": "Desperation"}}
+{"Move1": {"Name": "Rock Smash", "Type": "Fighting", "Freq": "At-Will", "AC": "2", "DB": "4", "DType": "Physical", "Range": "Melee, 1 Target", "Effects": "Rock Smash lowers the target\u2019s Defense 1 Combat Stage on 17+.", "Contest Effect": "Tough", "Contest Type": "Desperation"}}

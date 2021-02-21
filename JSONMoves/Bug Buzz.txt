@@ -1,1 +1,1 @@
-{"Move1": {"Name": "Bug Buzz", "Type": "Bug", "Freq": "Scene x2", "AC": "2", "DB": "9", "DType": "Special", "Range": "Cone 2 or Close Blast 2, Sonic, Smite", "Effects": "Bug Buzz lowers the Special Defense of all targets on 19+.", "Contest Type": "Cute", "Contest Effect": "Incentives"}}
+{"Move1": {"Name": "Bug Buzz", "Type": "Bug", "Freq": "Scene x2", "AC": "2", "DB": "9", "DType": "Special", "Range": "Cone 2 or Close Blast 2, Sonic, Smite", "Effects": "Bug Buzz lowers the Special Defense of all targets on 19+.", "Contest Effect": "Cute", "Contest Type": "Incentives"}}

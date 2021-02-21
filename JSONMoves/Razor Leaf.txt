@@ -1,1 +1,1 @@
-{"Move1": {"Special": "Grants Threaded", "Name": "Razor Leaf", "Type": "Grass", "Freq": "At-Will", "AC": "4", "DB": "6", "DType": "Physical", "Range": "Cone 2", "Effects": "Razor Leaf is a Critical Hit on 18+.", "Contest Type": "Cool", "Contest Effect": "Steady Performance"}}
+{"Move1": {"Special": "Grants Threaded", "Name": "Razor Leaf", "Type": "Grass", "Freq": "At-Will", "AC": "4", "DB": "6", "DType": "Physical", "Range": "Cone 2", "Effects": "Razor Leaf is a Critical Hit on 18+.", "Contest Effect": "Cool", "Contest Type": "Steady Performance"}}

@@ -1,1 +1,1 @@
-{"Move1": {"Name": "Mystical Fire", "Type": "Fire", "Freq": "EOT", "AC": "2", "DB": "7", "DType": "Special", "Range": "6, 1 Target", "Effects": "Mystical Fire lowers the target\u2019s Special Attack by 1 Combat Stage.", "Contest Type": "Beauty", "Contest Effect": "Special Attention"}}
+{"Move1": {"Name": "Mystical Fire", "Type": "Fire", "Freq": "EOT", "AC": "2", "DB": "7", "DType": "Special", "Range": "6, 1 Target", "Effects": "Mystical Fire lowers the target\u2019s Special Attack by 1 Combat Stage.", "Contest Effect": "Beauty", "Contest Type": "Special Attention"}}

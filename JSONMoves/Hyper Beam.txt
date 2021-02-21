@@ -1,1 +1,1 @@
-{"Move1": {"Name": "Hyper Beam", "Type": "Normal", "Freq": "Daily x2", "AC": "4", "DB": "15", "DType": "Special", "Range": "10, 1 Target, Exhaust, Smite", "Contest Type": "Cool", "Contest Effect": "Seen Nothing Yet"}}
+{"Move1": {"Name": "Hyper Beam", "Type": "Normal", "Freq": "Daily x2", "AC": "4", "DB": "15", "DType": "Special", "Range": "10, 1 Target, Exhaust, Smite", "Contest Effect": "Cool", "Contest Type": "Seen Nothing Yet"}}

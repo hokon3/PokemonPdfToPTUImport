@@ -1,1 +1,1 @@
-{"Move1": {"Name": "Super Fang", "Type": "Normal", "Freq": "Scene", "AC": "4", "DType": "Physical", "Range": "Melee, 1 Target", "Effects": "The target loses 1/2 of their current Hit Points.", "Contest Type": "Tough", "Contest Effect": "Steady Performance"}}
+{"Move1": {"Name": "Super Fang", "Type": "Normal", "Freq": "Scene", "AC": "4", "DType": "Physical", "Range": "Melee, 1 Target", "Effects": "The target loses 1/2 of their current Hit Points.", "Contest Effect": "Tough", "Contest Type": "Steady Performance"}}

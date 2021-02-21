@@ -1,1 +1,1 @@
-{"Move1": {"Name": "Bite", "Type": "Dark", "Freq": "At-Will", "AC": "2", "DB": "6", "DType": "Physical", "Range": "Melee, 1 Target", "Effects": "Bite Flinches the target on 15+.", "Contest Type": "Tough", "Contest Effect": "Steady Performance"}}
+{"Move1": {"Name": "Bite", "Type": "Dark", "Freq": "At-Will", "AC": "2", "DB": "6", "DType": "Physical", "Range": "Melee, 1 Target", "Effects": "Bite Flinches the target on 15+.", "Contest Effect": "Tough", "Contest Type": "Steady Performance"}}

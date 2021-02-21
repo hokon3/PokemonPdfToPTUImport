@@ -1,1 +1,1 @@
-{"Move1": {"Name": "Zen Headbutt", "Type": "Psychic", "Freq": "EOT", "AC": "4", "DB": "8", "DType": "Physical", "Range": "Melee, 1 Target, Dash", "Effects": "Zen Headbutt Flinches the target on 15+.", "Contest Type": "Beauty", "Contest Effect": "Desperation"}}
+{"Move1": {"Name": "Zen Headbutt", "Type": "Psychic", "Freq": "EOT", "AC": "4", "DB": "8", "DType": "Physical", "Range": "Melee, 1 Target, Dash", "Effects": "Zen Headbutt Flinches the target on 15+.", "Contest Effect": "Beauty", "Contest Type": "Desperation"}}

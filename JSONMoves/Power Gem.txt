@@ -1,1 +1,1 @@
-{"Move1": {"Name": "Power Gem", "Type": "Rock", "Freq": "At-Will", "AC": "2", "DB": "8", "DType": "Special", "Range": "6, 1 Target", "Contest Type": "Beauty", "Contest Effect": "Steady Performance"}}
+{"Move1": {"Name": "Power Gem", "Type": "Rock", "Freq": "At-Will", "AC": "2", "DB": "8", "DType": "Special", "Range": "6, 1 Target", "Contest Effect": "Beauty", "Contest Type": "Steady Performance"}}

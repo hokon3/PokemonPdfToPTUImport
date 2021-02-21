@@ -1,1 +1,1 @@
-{"Move1": {"Name": "Vacuum Wave", "Type": "Fighting", "Freq": "At-Will", "AC": "2", "DB": "4", "DType": "Special", "Range": "4, 1 Target, Priority, Aura", "Contest Type": "Smart", "Contest Effect": "Saving Grace"}}
+{"Move1": {"Name": "Vacuum Wave", "Type": "Fighting", "Freq": "At-Will", "AC": "2", "DB": "4", "DType": "Special", "Range": "4, 1 Target, Priority, Aura", "Contest Effect": "Smart", "Contest Type": "Saving Grace"}}

@@ -1,1 +1,1 @@
-{"Move1": {"Name": "Sleep Powder", "Type": "Grass", "Freq": "Scene x2", "AC": "6", "DType": "Status", "Range": "4, 1 Target, Powder", "Effects": "The target falls Asleep.", "Contest Type": "Smart", "Contest Effect": "Inversed Appeal"}}
+{"Move1": {"Name": "Sleep Powder", "Type": "Grass", "Freq": "Scene x2", "AC": "6", "DType": "Status", "Range": "4, 1 Target, Powder", "Effects": "The target falls Asleep.", "Contest Effect": "Smart", "Contest Type": "Inversed Appeal"}}

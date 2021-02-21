@@ -1,1 +1,1 @@
-{"Move1": {"Name": "Soak", "Type": "Water", "Freq": "Daily", "AC": "2", "DType": "Status", "Range": "5, 1 Target", "Effects": "The target gains the Water Type in addition to its other Types for 5 turns.", "Contest Type": "Beauty", "Contest Effect": "Safe Option"}}
+{"Move1": {"Name": "Soak", "Type": "Water", "Freq": "Daily", "AC": "2", "DType": "Status", "Range": "5, 1 Target", "Effects": "The target gains the Water Type in addition to its other Types for 5 turns.", "Contest Effect": "Beauty", "Contest Type": "Safe Option"}}

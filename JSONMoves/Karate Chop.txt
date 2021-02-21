@@ -1,1 +1,1 @@
-{"Move1": {"Name": "Karate Chop", "Type": "Fighting", "Freq": "At-Will", "AC": "2", "DB": "5", "DType": "Physical", "Range": "Melee, 1 Target", "Effects": "Karate Chop is a Critical Hit on 17+.", "Contest Type": "Tough", "Contest Effect": "Steady Performance"}}
+{"Move1": {"Name": "Karate Chop", "Type": "Fighting", "Freq": "At-Will", "AC": "2", "DB": "5", "DType": "Physical", "Range": "Melee, 1 Target", "Effects": "Karate Chop is a Critical Hit on 17+.", "Contest Effect": "Tough", "Contest Type": "Steady Performance"}}

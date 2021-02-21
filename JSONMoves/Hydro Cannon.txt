@@ -1,1 +1,1 @@
-{"Move1": {"Name": "Hydro Cannon", "Type": "Water", "Freq": "Daily x2", "AC": "4", "DB": "15", "DType": "Special", "Range": "Line 9, Smite, Exhaust", "Contest Type": "Beauty", "Contest Effect": "Seen Nothing Yet"}}
+{"Move1": {"Name": "Hydro Cannon", "Type": "Water", "Freq": "Daily x2", "AC": "4", "DB": "15", "DType": "Special", "Range": "Line 9, Smite, Exhaust", "Contest Effect": "Beauty", "Contest Type": "Seen Nothing Yet"}}

@@ -1,1 +1,1 @@
-{"Move1": {"Name": "Mud-Slap", "Type": "Ground", "Freq": "At-Will", "AC": "2", "DB": "2", "DType": "Special", "Range": "3, 1 Target", "Effects": "The target\u2019s Accuracy is lowered by -1.", "Contest Type": "Cute", "Contest Effect": "Steady Performance"}}
+{"Move1": {"Name": "Mud-Slap", "Type": "Ground", "Freq": "At-Will", "AC": "2", "DB": "2", "DType": "Special", "Range": "3, 1 Target", "Effects": "The target\u2019s Accuracy is lowered by -1.", "Contest Effect": "Cute", "Contest Type": "Steady Performance"}}

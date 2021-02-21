@@ -1,1 +1,1 @@
-{"Move1": {"Name": "Bubble Beam", "Type": "Water", "Freq": "At-Will", "AC": "2", "DB": "7", "DType": "Special", "Range": "4, 1 Target", "Effects": "Bubble Beam lowers the target\u2019s Speed on 18+.", "Contest Type": "Beauty", "Contest Effect": "Desperation"}}
+{"Move1": {"Name": "Bubble Beam", "Type": "Water", "Freq": "At-Will", "AC": "2", "DB": "7", "DType": "Special", "Range": "4, 1 Target", "Effects": "Bubble Beam lowers the target\u2019s Speed on 18+.", "Contest Effect": "Beauty", "Contest Type": "Desperation"}}

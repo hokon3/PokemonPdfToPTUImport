@@ -1,1 +1,1 @@
-{"Move1": {"Name": "Jaw Lock", "Type": "Dark", "Freq": "Scene x2", "AC": "2", "DB": "8", "DType": "Physical", "Range": "Melee, 1 Target", "Effects": "You may perform a Grapple Maneuver against the target as a Free Action.", "Contest Type": "Tough", "Contest Effect": "Sabotage"}}
+{"Move1": {"Name": "Jaw Lock", "Type": "Dark", "Freq": "Scene x2", "AC": "2", "DB": "8", "DType": "Physical", "Range": "Melee, 1 Target", "Effects": "You may perform a Grapple Maneuver against the target as a Free Action.", "Contest Effect": "Tough", "Contest Type": "Sabotage"}}

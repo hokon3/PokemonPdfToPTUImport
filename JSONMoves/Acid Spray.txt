@@ -1,1 +1,1 @@
-{"Move1": {"Name": "Acid Spray", "Type": "Poison", "Freq": "EOT", "AC": "2", "DB": "4", "DType": "Special", "Range": "4, 1 Target", "Effects": "Acid Spray lowers the target\u2019s Special Defense 2 Combat Stages.", "Contest Type": "Smart", "Contest Effect": "Unsettling"}}
+{"Move1": {"Name": "Acid Spray", "Type": "Poison", "Freq": "EOT", "AC": "2", "DB": "4", "DType": "Special", "Range": "4, 1 Target", "Effects": "Acid Spray lowers the target\u2019s Special Defense 2 Combat Stages.", "Contest Effect": "Smart", "Contest Type": "Unsettling"}}

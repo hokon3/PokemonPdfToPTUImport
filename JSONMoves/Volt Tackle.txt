@@ -1,1 +1,1 @@
-{"Move1": {"Name": "Volt Tackle", "Type": "Electric", "Freq": "Scene x2", "AC": "2", "DB": "12", "DType": "Physical", "Range": "Melee, 1 Target, Dash, Recoil 1/3", "Effects": "Volt Tackle Paralyzes the target on 19+.", "Contest Type": "Cool", "Contest Effect": "Seen Nothing Yet"}}
+{"Move1": {"Name": "Volt Tackle", "Type": "Electric", "Freq": "Scene x2", "AC": "2", "DB": "12", "DType": "Physical", "Range": "Melee, 1 Target, Dash, Recoil 1/3", "Effects": "Volt Tackle Paralyzes the target on 19+.", "Contest Effect": "Cool", "Contest Type": "Seen Nothing Yet"}}

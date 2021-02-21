@@ -1,1 +1,1 @@
-{"Move1": {"Name": "Spirit Break", "Type": "Fairy", "Freq": "EOT", "AC": "2", "DB": "8", "DType": "Physical", "Range": "Melee, 1 Target", "Effects": "The target\u2019s Special Attack stat is lowered 1 CS.", "Contest Type": "Tough", "Contest Effect": "Sabotage"}}
+{"Move1": {"Name": "Spirit Break", "Type": "Fairy", "Freq": "EOT", "AC": "2", "DB": "8", "DType": "Physical", "Range": "Melee, 1 Target", "Effects": "The target\u2019s Special Attack stat is lowered 1 CS.", "Contest Effect": "Tough", "Contest Type": "Sabotage"}}

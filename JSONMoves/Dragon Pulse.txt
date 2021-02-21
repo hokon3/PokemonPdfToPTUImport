@@ -1,1 +1,1 @@
-{"Move1": {"Name": "Dragon Pulse", "Type": "Dragon", "Freq": "EOT", "AC": "2", "DB": "9", "DType": "Special", "Range": "8, 1 Target, Aura", "Contest Type": "Smart", "Contest Effect": "Incentives"}}
+{"Move1": {"Name": "Dragon Pulse", "Type": "Dragon", "Freq": "EOT", "AC": "2", "DB": "9", "DType": "Special", "Range": "8, 1 Target, Aura", "Contest Effect": "Smart", "Contest Type": "Incentives"}}

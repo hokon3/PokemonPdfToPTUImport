@@ -1,1 +1,1 @@
-{"Move1": {"Name": "Steel Wing", "Type": "Steel", "Freq": "At-Will", "AC": "3", "DB": "7", "DType": "Physical", "Range": "Melee, Pass, Spirit Surge", "Effects": "Raise the user\u2019s Defense 1 Combat Stage on 15+.", "Contest Type": "Cool", "Contest Effect": "Steady Performance"}}
+{"Move1": {"Name": "Steel Wing", "Type": "Steel", "Freq": "At-Will", "AC": "3", "DB": "7", "DType": "Physical", "Range": "Melee, Pass, Spirit Surge", "Effects": "Raise the user\u2019s Defense 1 Combat Stage on 15+.", "Contest Effect": "Cool", "Contest Type": "Steady Performance"}}

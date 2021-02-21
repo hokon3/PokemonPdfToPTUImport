@@ -1,1 +1,1 @@
-{"Move1": {"Name": "Fire Punch", "Type": "Fire", "Freq": "At-Will", "AC": "2", "DB": "8", "DType": "Physical", "Range": "Melee, 1 Target", "Effects": "Fire Punch Burns the target on 19+ during Accuracy Check.", "Contest Type": "Beauty", "Contest Effect": "Exhausting Act"}}
+{"Move1": {"Name": "Fire Punch", "Type": "Fire", "Freq": "At-Will", "AC": "2", "DB": "8", "DType": "Physical", "Range": "Melee, 1 Target", "Effects": "Fire Punch Burns the target on 19+ during Accuracy Check.", "Contest Effect": "Beauty", "Contest Type": "Exhausting Act"}}

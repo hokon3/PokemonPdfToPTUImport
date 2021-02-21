@@ -1,1 +1,1 @@
-{"Move1": {"Ground Moves": "", "Name": "Bone Club", "Type": "Ground", "Freq": "At-Will", "AC": "5", "DB": "7", "DType": "Physical", "Range": "Melee, 1 Target", "Effects": "Bone Club Flinches the target on 18+.", "Contest Type": "Tough", "Contest Effect": "Steady Performance"}}
+{"Move1": {"Ground Moves": "", "Name": "Bone Club", "Type": "Ground", "Freq": "At-Will", "AC": "5", "DB": "7", "DType": "Physical", "Range": "Melee, 1 Target", "Effects": "Bone Club Flinches the target on 18+.", "Contest Effect": "Tough", "Contest Type": "Steady Performance"}}

@@ -1,1 +1,1 @@
-{"Move1": {"Name": "Heal Bell", "Type": "Normal", "Freq": "Scene", "AC": "None", "DType": "Status", "Range": "Burst 3, Sonic, Healing", "Effects": "All targets are cured of any Persistent Status ailments.", "Contest Type": "Beauty", "Contest Effect": "Reflective Appeal"}}
+{"Move1": {"Name": "Heal Bell", "Type": "Normal", "Freq": "Scene", "AC": "None", "DType": "Status", "Range": "Burst 3, Sonic, Healing", "Effects": "All targets are cured of any Persistent Status ailments.", "Contest Effect": "Beauty", "Contest Type": "Reflective Appeal"}}

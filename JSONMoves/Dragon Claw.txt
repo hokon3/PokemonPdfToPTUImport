@@ -1,1 +1,1 @@
-{"Move1": {"Name": "Dragon Claw", "Type": "Dragon", "Freq": "At-Will", "AC": "2", "DB": "8", "DType": "Physical", "Range": "Melee, 1 Target", "Contest Type": "Cool", "Contest Effect": "Exhausting Act"}}
+{"Move1": {"Name": "Dragon Claw", "Type": "Dragon", "Freq": "At-Will", "AC": "2", "DB": "8", "DType": "Physical", "Range": "Melee, 1 Target", "Contest Effect": "Cool", "Contest Type": "Exhausting Act"}}

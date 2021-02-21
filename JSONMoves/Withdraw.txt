@@ -1,1 +1,1 @@
-{"Move1": {"Name": "Withdraw", "Type": "Water", "Freq": "At-Will", "AC": "None", "DType": "Status", "Range": "Self", "Effects": "The user\u2019s Defense is raised 1 Combat Stage.", "Contest Type": "Cute", "Contest Effect": "Sabotage"}}
+{"Move1": {"Name": "Withdraw", "Type": "Water", "Freq": "At-Will", "AC": "None", "DType": "Status", "Range": "Self", "Effects": "The user\u2019s Defense is raised 1 Combat Stage.", "Contest Effect": "Cute", "Contest Type": "Sabotage"}}

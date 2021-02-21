@@ -1,1 +1,1 @@
-{"Move1": {"Name": "Scratch", "Type": "Normal", "Freq": "At-Will", "AC": "2", "DB": "4", "DType": "Physical", "Range": "Melee, Pass", "Contest Type": "Tough", "Contest Effect": "Steady Performance"}}
+{"Move1": {"Name": "Scratch", "Type": "Normal", "Freq": "At-Will", "AC": "2", "DB": "4", "DType": "Physical", "Range": "Melee, Pass", "Contest Effect": "Tough", "Contest Type": "Steady Performance"}}

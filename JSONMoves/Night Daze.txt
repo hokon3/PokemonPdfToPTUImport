@@ -1,1 +1,1 @@
-{"Move1": {"Name": "Night Daze", "Type": "Dark", "Freq": "EOT", "AC": "3", "DB": "9", "DType": "Special", "Range": "4, 1 Target", "Effects": "Night Daze lowers the target\u2019s Accuracy by -1 on 13+.", "Contest Type": "Tough", "Contest Effect": "Unsettling"}}
+{"Move1": {"Name": "Night Daze", "Type": "Dark", "Freq": "EOT", "AC": "3", "DB": "9", "DType": "Special", "Range": "4, 1 Target", "Effects": "Night Daze lowers the target\u2019s Accuracy by -1 on 13+.", "Contest Effect": "Tough", "Contest Type": "Unsettling"}}

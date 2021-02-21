@@ -1,1 +1,1 @@
-{"Move1": {"Name": "Belly Drum", "Type": "Normal", "Freq": "Scene", "AC": "None", "DType": "Status", "Range": "Self", "Effects": "The user gains +6 Attack Combat Stages, and loses Hit Points equal to \u00bd of their Max Hit Points.", "Contest Type": "Cute", "Contest Effect": "Get Ready"}}
+{"Move1": {"Name": "Belly Drum", "Type": "Normal", "Freq": "Scene", "AC": "None", "DType": "Status", "Range": "Self", "Effects": "The user gains +6 Attack Combat Stages, and loses Hit Points equal to \u00bd of their Max Hit Points.", "Contest Effect": "Cute", "Contest Type": "Get Ready"}}

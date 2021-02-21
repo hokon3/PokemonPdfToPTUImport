@@ -1,1 +1,1 @@
-{"Move1": {"Name": "Flame Charge", "Type": "Fire", "Freq": "At-Will", "AC": "2", "DB": "5", "DType": "Physical", "Range": "Melee, 1 Target. Dash", "Effects": "Raise the user\u2019s Speed 1 Combat Stage.", "Contest Type": "Tough", "Contest Effect": "Excitement"}}
+{"Move1": {"Name": "Flame Charge", "Type": "Fire", "Freq": "At-Will", "AC": "2", "DB": "5", "DType": "Physical", "Range": "Melee, 1 Target. Dash", "Effects": "Raise the user\u2019s Speed 1 Combat Stage.", "Contest Effect": "Tough", "Contest Type": "Excitement"}}

@@ -1,1 +1,1 @@
-{"Move1": {"Name": "Thunderbolt", "Type": "Electric", "Freq": "EOT", "AC": "2", "DB": "9", "DType": "Special", "Range": "4, 1 Target", "Effects": "Thunder Paralyzes its target on 19+.", "Contest Type": "Cool", "Contest Effect": "Exhausting Act"}}
+{"Move1": {"Name": "Thunderbolt", "Type": "Electric", "Freq": "EOT", "AC": "2", "DB": "9", "DType": "Special", "Range": "4, 1 Target", "Effects": "Thunder Paralyzes its target on 19+.", "Contest Effect": "Cool", "Contest Type": "Exhausting Act"}}

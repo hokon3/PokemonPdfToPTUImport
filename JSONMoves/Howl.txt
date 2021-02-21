@@ -1,1 +1,1 @@
-{"Move1": {"Name": "Howl", "Type": "Normal", "Freq": "EOT", "AC": "None", "DType": "Status", "Range": "Burst 1", "Effects": "The user and all allies in the Burst have their Attack CS raised by 1.", "Contest Type": "Cool", "Contest Effect": "Get Ready"}}
+{"Move1": {"Name": "Howl", "Type": "Normal", "Freq": "EOT", "AC": "None", "DType": "Status", "Range": "Burst 1", "Effects": "The user and all allies in the Burst have their Attack CS raised by 1.", "Contest Effect": "Cool", "Contest Type": "Get Ready"}}

@@ -1,1 +1,1 @@
-{"Move1": {"Special": "Grants Threaded", "Name": "Wood Hammer", "Type": "Grass", "Freq": "Scene x2", "AC": "2", "DB": "12", "DType": "Physical", "Range": "Melee, 1 Target, Dash, Recoil 1/3", "Contest Type": "Tough", "Contest Effect": "Desperation"}}
+{"Move1": {"Special": "Grants Threaded", "Name": "Wood Hammer", "Type": "Grass", "Freq": "Scene x2", "AC": "2", "DB": "12", "DType": "Physical", "Range": "Melee, 1 Target, Dash, Recoil 1/3", "Contest Effect": "Tough", "Contest Type": "Desperation"}}

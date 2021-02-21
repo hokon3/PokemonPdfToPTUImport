@@ -1,1 +1,1 @@
-{"Move1": {"Name": "Refresh", "Type": "Normal", "Freq": "Scene x2", "AC": "None", "DType": "Status", "Range": "Self", "Effects": "The user is cured of all Poison, Burns, and Paralysis.", "Contest Type": "Cute", "Contest Effect": "Reflective Appeal"}}
+{"Move1": {"Name": "Refresh", "Type": "Normal", "Freq": "Scene x2", "AC": "None", "DType": "Status", "Range": "Self", "Effects": "The user is cured of all Poison, Burns, and Paralysis.", "Contest Effect": "Cute", "Contest Type": "Reflective Appeal"}}

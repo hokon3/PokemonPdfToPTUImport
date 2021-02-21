@@ -1,1 +1,1 @@
-{"Move1": {"Name": "Entrainment", "Type": "Normal", "Freq": "Scene", "AC": "2", "DType": "Status", "Range": "4, 1 Target", "Effects": "The target gains one of the user\u2019s Abilities for 3 turns.", "Contest Type": "Cute", "Contest Effect": "Catching Up"}}
+{"Move1": {"Name": "Entrainment", "Type": "Normal", "Freq": "Scene", "AC": "2", "DType": "Status", "Range": "4, 1 Target", "Effects": "The target gains one of the user\u2019s Abilities for 3 turns.", "Contest Effect": "Cute", "Contest Type": "Catching Up"}}

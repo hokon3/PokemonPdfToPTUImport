@@ -1,1 +1,1 @@
-{"Move1": {"Name": "Extreme Speed", "Type": "Normal", "Freq": "EOT", "AC": "2", "DB": "8", "DType": "Physical", "Range": "Melee, 1 Target, Dash, Priority", "Contest Type": "Cool", "Contest Effect": "Saving Grace"}}
+{"Move1": {"Name": "Extreme Speed", "Type": "Normal", "Freq": "EOT", "AC": "2", "DB": "8", "DType": "Physical", "Range": "Melee, 1 Target, Dash, Priority", "Contest Effect": "Cool", "Contest Type": "Saving Grace"}}

@@ -1,1 +1,1 @@
-{"Move1": {"Name": "Sludge Wave", "Type": "Poison", "Freq": "Scene x2", "AC": "2", "DB": "10", "DType": "Special", "Range": "Burst 1 or Close Blast 2", "Effects": "Sludge Wave Poisons targets on 19+.", "Contest Type": "Cool", "Contest Effect": "Steady Performance"}}
+{"Move1": {"Name": "Sludge Wave", "Type": "Poison", "Freq": "Scene x2", "AC": "2", "DB": "10", "DType": "Special", "Range": "Burst 1 or Close Blast 2", "Effects": "Sludge Wave Poisons targets on 19+.", "Contest Effect": "Cool", "Contest Type": "Steady Performance"}}

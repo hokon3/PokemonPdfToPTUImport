@@ -1,1 +1,1 @@
-{"Move1": {"Name": "Egg Bomb", "Type": "Normal", "Freq": "Scene x2", "AC": "6", "DB": "10", "DType": "Physical", "Range": "5, Blast 2", "Contest Type": "Tough", "Contest Effect": "Steady Performance"}}
+{"Move1": {"Name": "Egg Bomb", "Type": "Normal", "Freq": "Scene x2", "AC": "6", "DB": "10", "DType": "Physical", "Range": "5, Blast 2", "Contest Effect": "Tough", "Contest Type": "Steady Performance"}}

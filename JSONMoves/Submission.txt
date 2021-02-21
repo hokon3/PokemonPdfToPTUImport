@@ -1,1 +1,1 @@
-{"Move1": {"Name": "Submission", "Type": "Fighting", "Freq": "At-Will", "AC": "6", "DB": "8", "DType": "Physical", "Range": "Melee, 1 Target, Recoil 1/3", "Effects": "On an accuracy roll of 15+, the target is Tripped.", "Contest Type": "Cool", "Contest Effect": "Steady Performance"}}
+{"Move1": {"Name": "Submission", "Type": "Fighting", "Freq": "At-Will", "AC": "6", "DB": "8", "DType": "Physical", "Range": "Melee, 1 Target, Recoil 1/3", "Effects": "On an accuracy roll of 15+, the target is Tripped.", "Contest Effect": "Cool", "Contest Type": "Steady Performance"}}

@@ -1,1 +1,1 @@
-{"Move1": {"Name": "Aromatherapy", "Type": "Grass", "Freq": "Scene", "AC": "None", "DType": "Status", "Range": "Burst 1, Healing", "Effects": "All allies in the burst are cured of one status condition of their choice.", "Contest Type": "Smart", "Contest Effect": "Reflective Appeal"}}
+{"Move1": {"Name": "Aromatherapy", "Type": "Grass", "Freq": "Scene", "AC": "None", "DType": "Status", "Range": "Burst 1, Healing", "Effects": "All allies in the burst are cured of one status condition of their choice.", "Contest Effect": "Smart", "Contest Type": "Reflective Appeal"}}

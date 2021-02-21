@@ -1,1 +1,1 @@
-{"Move1": {"Name": "Light of Ruin", "Type": "Fairy", "Freq": "Scene", "AC": "4", "DB": "14", "DType": "Special", "Range": "8, Ranged Blast 3, Smite, Recoil 1/2", "Contest Type": "Beauty", "Contest Effect": "Seen Nothing Yet"}}
+{"Move1": {"Name": "Light of Ruin", "Type": "Fairy", "Freq": "Scene", "AC": "4", "DB": "14", "DType": "Special", "Range": "8, Ranged Blast 3, Smite, Recoil 1/2", "Contest Effect": "Beauty", "Contest Type": "Seen Nothing Yet"}}

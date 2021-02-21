@@ -1,1 +1,1 @@
-{"Move1": {"Name": "Double Slap", "Type": "Normal", "Freq": "At-Will", "AC": "4", "DB": "2", "DType": "Physical", "Range": "Melee, 1 Target, Five Strike", "Contest Type": "Tough", "Contest Effect": "Reliable"}}
+{"Move1": {"Name": "Double Slap", "Type": "Normal", "Freq": "At-Will", "AC": "4", "DB": "2", "DType": "Physical", "Range": "Melee, 1 Target, Five Strike", "Contest Effect": "Tough", "Contest Type": "Reliable"}}

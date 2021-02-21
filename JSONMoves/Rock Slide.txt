@@ -1,1 +1,1 @@
-{"Move1": {"Name": "Rock Slide", "Type": "Rock", "Freq": "Scene x2", "AC": "4", "DB": "8", "DType": "Physical", "Range": "6, Ranged Blast 3", "Effects": "Rock Slide Flinches all Legal Targets on 17+.", "Contest Type": "Tough", "Contest Effect": "Steady Performance"}}
+{"Move1": {"Name": "Rock Slide", "Type": "Rock", "Freq": "Scene x2", "AC": "4", "DB": "8", "DType": "Physical", "Range": "6, Ranged Blast 3", "Effects": "Rock Slide Flinches all Legal Targets on 17+.", "Contest Effect": "Tough", "Contest Type": "Steady Performance"}}

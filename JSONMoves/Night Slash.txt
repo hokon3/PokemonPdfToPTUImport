@@ -1,1 +1,1 @@
-{"Move1": {"Name": "Night Slash", "Type": "Dark", "Freq": "EOT", "AC": "2", "DB": "7", "DType": "Physical", "Range": "Melee, Pass", "Effects": "Night Slash is a Critical Hit on 18+.", "Contest Type": "Beauty", "Contest Effect": "Steady Performance"}}
+{"Move1": {"Name": "Night Slash", "Type": "Dark", "Freq": "EOT", "AC": "2", "DB": "7", "DType": "Physical", "Range": "Melee, Pass", "Effects": "Night Slash is a Critical Hit on 18+.", "Contest Effect": "Beauty", "Contest Type": "Steady Performance"}}

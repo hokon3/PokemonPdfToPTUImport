@@ -1,1 +1,1 @@
-{"Move1": {"Special": "Grants Alluring", "Name": "Swift", "Type": "Normal", "Freq": "EOT", "AC": "None", "DB": "6", "DType": "Special", "Range": "8, Ranged Blast 2, Friendly", "Effects": "Swift cannot Miss.", "Contest Type": "Cool", "Contest Effect": "Exhausting Act"}}
+{"Move1": {"Special": "Grants Alluring", "Name": "Swift", "Type": "Normal", "Freq": "EOT", "AC": "None", "DB": "6", "DType": "Special", "Range": "8, Ranged Blast 2, Friendly", "Effects": "Swift cannot Miss.", "Contest Effect": "Cool", "Contest Type": "Exhausting Act"}}

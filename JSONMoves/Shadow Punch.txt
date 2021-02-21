@@ -1,1 +1,1 @@
-{"Move1": {"Name": "Shadow Punch", "Type": "Ghost", "Freq": "EOT", "AC": "None", "DB": "6", "DType": "Physical", "Range": "6, 1 Target", "Effects": "Shadow Punch cannot miss.", "Contest Type": "Smart", "Contest Effect": "Exhausting Act"}}
+{"Move1": {"Name": "Shadow Punch", "Type": "Ghost", "Freq": "EOT", "AC": "None", "DB": "6", "DType": "Physical", "Range": "6, 1 Target", "Effects": "Shadow Punch cannot miss.", "Contest Effect": "Smart", "Contest Type": "Exhausting Act"}}

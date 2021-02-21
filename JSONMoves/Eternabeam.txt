@@ -1,1 +1,1 @@
-{"Move1": {"Name": "Eternabeam", "Type": "Dragon", "Freq": "Scene", "AC": "4", "DB": "16", "DType": "Special", "Range": "Line 6, Smite, Exhaust", "Contest Type": "Cool", "Contest Effect": "Seen Nothing Yet"}}
+{"Move1": {"Name": "Eternabeam", "Type": "Dragon", "Freq": "Scene", "AC": "4", "DB": "16", "DType": "Special", "Range": "Line 6, Smite, Exhaust", "Contest Effect": "Cool", "Contest Type": "Seen Nothing Yet"}}

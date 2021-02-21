@@ -1,1 +1,1 @@
-{"Move1": {"Name": "Gunk Shot", "Type": "Poison", "Freq": "Scene x2", "AC": "5", "DB": "12", "DType": "Physical", "Range": "6, 1 Target, Smite", "Effects": "Gunk Shot Poisons the Target on 15+.", "Contest Type": "Cool", "Contest Effect": "Steady Performance"}}
+{"Move1": {"Name": "Gunk Shot", "Type": "Poison", "Freq": "Scene x2", "AC": "5", "DB": "12", "DType": "Physical", "Range": "6, 1 Target, Smite", "Effects": "Gunk Shot Poisons the Target on 15+.", "Contest Effect": "Cool", "Contest Type": "Steady Performance"}}

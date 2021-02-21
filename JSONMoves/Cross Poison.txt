@@ -1,1 +1,1 @@
-{"Move1": {"Name": "Cross Poison", "Type": "Poison", "Freq": "EOT", "AC": "2", "DB": "7", "DType": "Physical", "Range": "Melee, Pass", "Effects": "Cross Poison is a Critical Hit on 18+, and Poisons the target on 19+.", "Contest Type": "Cool", "Contest Effect": "Steady Performance"}}
+{"Move1": {"Name": "Cross Poison", "Type": "Poison", "Freq": "EOT", "AC": "2", "DB": "7", "DType": "Physical", "Range": "Melee, Pass", "Effects": "Cross Poison is a Critical Hit on 18+, and Poisons the target on 19+.", "Contest Effect": "Cool", "Contest Type": "Steady Performance"}}

@@ -1,1 +1,1 @@
-{"Move1": {"Name": "Flatter", "Type": "Dark", "Freq": "At-Will", "AC": "2", "DType": "Status", "Range": "6, 1 Target, Social", "Effects": "The target\u2019s Special Attack is raised by +1 Combat Stage. Flatter Confuses the target.", "Contest Type": "Smart", "Contest Effect": "Excitement"}}
+{"Move1": {"Name": "Flatter", "Type": "Dark", "Freq": "At-Will", "AC": "2", "DType": "Status", "Range": "6, 1 Target, Social", "Effects": "The target\u2019s Special Attack is raised by +1 Combat Stage. Flatter Confuses the target.", "Contest Effect": "Smart", "Contest Type": "Excitement"}}

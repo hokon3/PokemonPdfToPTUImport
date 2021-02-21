@@ -1,1 +1,1 @@
-{"Move1": {"Name": "Origin Pulse", "Type": "Water", "Freq": "Scene x2", "AC": "5", "DB": "12", "DType": "Special", "Range": "Close Blast 3, Smite", "Contest Type": "Beauty", "Contest Effect": "Desperation"}}
+{"Move1": {"Name": "Origin Pulse", "Type": "Water", "Freq": "Scene x2", "AC": "5", "DB": "12", "DType": "Special", "Range": "Close Blast 3, Smite", "Contest Effect": "Beauty", "Contest Type": "Desperation"}}

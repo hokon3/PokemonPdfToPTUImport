@@ -1,1 +1,1 @@
-{"Move1": {"Name": "Petal Blizzard", "Type": "Grass", "Freq": "EOT", "AC": "2", "DB": "9", "DType": "Physical", "Range": "Burst 1", "Contest Type": "Beauty", "Contest Effect": "Big Show"}}
+{"Move1": {"Name": "Petal Blizzard", "Type": "Grass", "Freq": "EOT", "AC": "2", "DB": "9", "DType": "Physical", "Range": "Burst 1", "Contest Effect": "Beauty", "Contest Type": "Big Show"}}

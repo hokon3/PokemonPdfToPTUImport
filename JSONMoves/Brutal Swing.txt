@@ -1,1 +1,1 @@
-{"Move1": {"Name": "Brutal Swing", "Type": "Dark", "Freq": "EOT", "AC": "2", "DB": "6", "DType": "Physical", "Range": "Burst 1", "Contest Type": "Tough", "Contest Effect": "Steady Performance"}}
+{"Move1": {"Name": "Brutal Swing", "Type": "Dark", "Freq": "EOT", "AC": "2", "DB": "6", "DType": "Physical", "Range": "Burst 1", "Contest Effect": "Tough", "Contest Type": "Steady Performance"}}

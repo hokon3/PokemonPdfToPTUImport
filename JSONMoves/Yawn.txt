@@ -1,1 +1,1 @@
-{"Move1": {"Name": "Yawn", "Type": "Normal", "Freq": "Scene x2", "AC": "None", "DType": "Status", "Range": "2, 1 Target, Social", "Effects": "The target falls Asleep at the end of their next turn. Yawn cannot miss.", "Contest Type": "Cute", "Contest Effect": "Excitement"}}
+{"Move1": {"Name": "Yawn", "Type": "Normal", "Freq": "Scene x2", "AC": "None", "DType": "Status", "Range": "2, 1 Target, Social", "Effects": "The target falls Asleep at the end of their next turn. Yawn cannot miss.", "Contest Effect": "Cute", "Contest Type": "Excitement"}}

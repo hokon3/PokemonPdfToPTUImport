@@ -1,1 +1,1 @@
-{"Move1": {"Name": "Overdrive", "Type": "Electric", "Freq": "EOT", "AC": "2", "DB": "8", "DType": "Special", "Range": "Cone 2, Sonic", "Contest Type": "Cool", "Contest Effect": "Attention Grabber"}}
+{"Move1": {"Name": "Overdrive", "Type": "Electric", "Freq": "EOT", "AC": "2", "DB": "8", "DType": "Special", "Range": "Cone 2, Sonic", "Contest Effect": "Cool", "Contest Type": "Attention Grabber"}}

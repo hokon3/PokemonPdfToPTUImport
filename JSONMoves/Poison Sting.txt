@@ -1,1 +1,1 @@
-{"Move1": {"Name": "Poison Sting", "Type": "Poison", "Freq": "At-Will", "AC": "2", "DB": "2", "DType": "Physical", "Range": "6, 1 Target", "Effects": "Poison Sting Poisons the target on 17+", "Contest Type": "Smart", "Contest Effect": "Excitement"}}
+{"Move1": {"Name": "Poison Sting", "Type": "Poison", "Freq": "At-Will", "AC": "2", "DB": "2", "DType": "Physical", "Range": "6, 1 Target", "Effects": "Poison Sting Poisons the target on 17+", "Contest Effect": "Smart", "Contest Type": "Excitement"}}

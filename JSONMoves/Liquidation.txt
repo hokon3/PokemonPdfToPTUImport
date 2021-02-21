@@ -1,1 +1,1 @@
-{"Move1": {"Name": "Liquidation", "Type": "Water", "Freq": "EOT", "AC": "2", "DB": "9", "DType": "Physical", "Range": "Melee, 1 Target", "Effects": "The target\u2019s Defense is lowered by 1 Combat Stage on a 17+.", "Contest Type": "Beauty", "Contest Effect": "Steady Performance"}}
+{"Move1": {"Name": "Liquidation", "Type": "Water", "Freq": "EOT", "AC": "2", "DB": "9", "DType": "Physical", "Range": "Melee, 1 Target", "Effects": "The target\u2019s Defense is lowered by 1 Combat Stage on a 17+.", "Contest Effect": "Beauty", "Contest Type": "Steady Performance"}}

@@ -1,1 +1,1 @@
-{"Move1": {"Special": "Grants Materializer", "Name": "Stone Edge", "Type": "Rock", "Freq": "EOT", "AC": "5", "DB": "10", "DType": "Physical", "Range": "8, 1 Target", "Effects": "Stone Edge is a Critical Hit on 17+.", "Contest Type": "Tough", "Contest Effect": "Incentives"}}
+{"Move1": {"Special": "Grants Materializer", "Name": "Stone Edge", "Type": "Rock", "Freq": "EOT", "AC": "5", "DB": "10", "DType": "Physical", "Range": "8, 1 Target", "Effects": "Stone Edge is a Critical Hit on 17+.", "Contest Effect": "Tough", "Contest Type": "Incentives"}}

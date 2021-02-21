@@ -1,1 +1,1 @@
-{"Move1": {"Name": "Shadow Ball", "Type": "Ghost", "Freq": "EOT", "AC": "2", "DB": "8", "DType": "Special", "Range": "8, 1 Target", "Effects": "Shadow Ball lowers the foe\u2019s Special Defense 1 Combat Stage on 17+.", "Contest Type": "Smart", "Contest Effect": "Exhausting Act"}}
+{"Move1": {"Name": "Shadow Ball", "Type": "Ghost", "Freq": "EOT", "AC": "2", "DB": "8", "DType": "Special", "Range": "8, 1 Target", "Effects": "Shadow Ball lowers the foe\u2019s Special Defense 1 Combat Stage on 17+.", "Contest Effect": "Smart", "Contest Type": "Exhausting Act"}}

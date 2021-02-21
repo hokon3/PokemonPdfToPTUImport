@@ -1,1 +1,1 @@
-{"Move1": {"Name": "Psybeam", "Type": "Psychic", "Freq": "At-Will", "AC": "2", "DB": "7", "DType": "Special", "Range": "6, 1 Target", "Effects": "Psybeam Confuses the target on 19+.", "Contest Type": "Beauty", "Contest Effect": "Exhausting Act"}}
+{"Move1": {"Name": "Psybeam", "Type": "Psychic", "Freq": "At-Will", "AC": "2", "DB": "7", "DType": "Special", "Range": "6, 1 Target", "Effects": "Psybeam Confuses the target on 19+.", "Contest Effect": "Beauty", "Contest Type": "Exhausting Act"}}

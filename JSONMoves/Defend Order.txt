@@ -1,1 +1,1 @@
-{"Move1": {"Name": "Defend Order", "Type": "Bug", "Freq": "EOT", "AC": "None", "DType": "Status", "Range": "Self", "Effects": "Raise the user\u2019s Defense and Special Defense 1 Combat Stage each.", "Contest Type": "Smart", "Contest Effect": "Get Ready"}}
+{"Move1": {"Name": "Defend Order", "Type": "Bug", "Freq": "EOT", "AC": "None", "DType": "Status", "Range": "Self", "Effects": "Raise the user\u2019s Defense and Special Defense 1 Combat Stage each.", "Contest Effect": "Smart", "Contest Type": "Get Ready"}}

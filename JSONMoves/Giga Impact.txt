@@ -1,1 +1,1 @@
-{"Move1": {"Name": "Giga Impact", "Type": "Normal", "Freq": "Daily x2", "AC": "4", "DB": "15", "DType": "Physical", "Range": "Melee, 1 Target, Dash, Exhaust, Smite", "Contest Type": "Beauty", "Contest Effect": "Seen Nothing Yet"}}
+{"Move1": {"Name": "Giga Impact", "Type": "Normal", "Freq": "Daily x2", "AC": "4", "DB": "15", "DType": "Physical", "Range": "Melee, 1 Target, Dash, Exhaust, Smite", "Contest Effect": "Beauty", "Contest Type": "Seen Nothing Yet"}}

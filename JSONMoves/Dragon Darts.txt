@@ -1,1 +1,1 @@
-{"Move1": {"Name": "Dragon Darts", "Type": "Dragon", "Freq": "EOT", "AC": "2", "DB": "5", "DType": "Physical", "Range": "6, 1 Target, Double Strike; or 6, 2 Targets", "Contest Type": "Smart", "Contest Effect": "Double Time"}}
+{"Move1": {"Name": "Dragon Darts", "Type": "Dragon", "Freq": "EOT", "AC": "2", "DB": "5", "DType": "Physical", "Range": "6, 1 Target, Double Strike; or 6, 2 Targets", "Contest Effect": "Smart", "Contest Type": "Double Time"}}

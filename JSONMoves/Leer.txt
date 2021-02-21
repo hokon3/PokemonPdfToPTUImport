@@ -1,1 +1,1 @@
-{"Move1": {"Name": "Leer", "Type": "Normal", "Freq": "At-Will", "AC": "2", "DType": "Status", "Range": "Cone 2, Friendly, Social", "Effects": "All legal targets have their Defense lowered by 1 Combat Stage.", "Contest Type": "Cool", "Contest Effect": "Excitement"}}
+{"Move1": {"Name": "Leer", "Type": "Normal", "Freq": "At-Will", "AC": "2", "DType": "Status", "Range": "Cone 2, Friendly, Social", "Effects": "All legal targets have their Defense lowered by 1 Combat Stage.", "Contest Effect": "Cool", "Contest Type": "Excitement"}}
