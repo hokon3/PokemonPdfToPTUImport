@@ -5,7 +5,7 @@ compiles pokedex and move pdfs to import data for PTU v2 character sheet on roll
 The folders JSONMoves and JSONPokemon contain all the moves and pokemon import data from latest run of script, the zip file contains both folders.
 Data is parsed from "PTU_Core_Rulebook version 1.05" and "DataNinja's Unofficial gen 8 references PTU 1.05.5 Booklet version 2"
 
-Use data by finding the text file for the move/pokemon you want, copy content, paste content into import tab on roll20 PTU v2 char sheet and click import.
+Use the data by finding the text file for the move/pokemon you want, copy content, paste content into import tab on roll20 PTU v2 char sheet and click import.
 
 Pokemon data comes with all level up moves, skills, capabilities and base stats.
 Moves and capabilities are appended, running import twice will therefore add moves and capabilities twice.
