@@ -14,7 +14,7 @@ The import data is meant to have contest effect and contest type flipped around,
 The decorate move was not present in "DataNinja's Unofficial gen 8 references PTU 1.05.5 Booklet version 2" so i pulled data for that one from bulbapedia.
 
 <h1>Info about the script</h1>
-It is a python script, be sure to setup the requirements to run it.
+It is a python script, be sure to setup the requirements to run it by using 'pip install -r requirements.txt'.
 Currently the script is setup to successfully parse "PTU_Core_Rulebook version 1.05" and "DataNinja's Unofficial gen 8 references PTU 1.05.5 Booklet version 2",
 it is probably possible to run it against similar resources if they have the same layout.
 Need to change paths for the pdfs if you want to run it yourself, if running against different pdfs, make sure the ifs that determine what pages are parsed is updated to match your pdfs.
